@@ -1,6 +1,6 @@
 # Prüfbericht: Chemie Oberstufe Niedersachsen
 
-Stand: 1. Oktober 2026. Genau **2.000 Aufgaben**, je 200 in zehn Themengebieten.
+Stand: 6. Oktober 2026. Genau **2.000 Aufgaben**, je 200 in zehn Themengebieten.
 
 | Themengebiet | Anzahl |
 |---|---:|
@@ -15,9 +15,9 @@ Stand: 1. Oktober 2026. Genau **2.000 Aufgaben**, je 200 in zehn Themengebieten.
 | Redox & Elektrochemie | 200 |
 | Makromoleküle & Analytik | 200 |
 
-Niveaus: E/Grundlagen 522, gA 993, eA 485. gA-Auswahl in der App schließt E ein.
+Niveaus: E/Grundlagen 491, gA 958, eA 551. gA-Auswahl in der App schließt E ein.
 
-426 Verständnis-/Strukturfragen; 1574 Rechenvarianten. Die Zahl bezeichnet Aufgaben einschließlich systematischer Varianten, keine 2.000 verschiedenen Fachkonzepte. Aufgabenfamilien: 223, wobei einzelne Verständnisfragen eigene Familien sind.
+485 Verständnis-/Strukturfragen; 1515 Rechenvarianten. Die Zahl bezeichnet Aufgaben einschließlich systematischer Varianten, keine 2.000 verschiedenen Fachkonzepte. Aufgabenfamilien: 236, wobei einzelne Verständnisfragen eigene Familien sind.
 
 ## Inhalts- und Datenprüfungen
 
@@ -28,13 +28,17 @@ Niveaus: E/Grundlagen 522, gA 993, eA 485. gA-Auswahl in der App schließt E ein
 - Niveau- und Aufgabentypfilter geprüft
 - Keine Themen- oder Quellentitel oberhalb der Frage
 
-1221 Ergebnisse wurden mit separaten Formelfunktionen nachgerechnet. Alle 1574 Zahlenaufgaben wurden auf gültige Werte, Akzeptanz der Musterlösung, Einheitenbehandlung, falsche Vorzeichen und eindeutig unterscheidbare Auswahlantworten geprüft. Die übrigen Musterwerte und Strukturaufgaben beruhen auf expliziten chemischen Regeln im Generator; eine unabhängige fachliche Einzelprüfung aller 2.000 Aufgaben durch eine Lehrkraft ist nicht erfolgt.
+1219 Ergebnisse wurden mit separaten Formelfunktionen nachgerechnet. Alle 1515 Zahlenaufgaben wurden auf gültige Werte, Akzeptanz der Musterlösung, Einheitenbehandlung, falsche Vorzeichen und eindeutig unterscheidbare Auswahlantworten geprüft. Die übrigen Musterwerte und Strukturaufgaben beruhen auf expliziten chemischen Regeln im Generator; eine unabhängige fachliche Einzelprüfung aller 2.000 Aufgaben durch eine Lehrkraft ist nicht erfolgt.
+
+## Organik-Überarbeitung
+
+120 neue Verständnisfragen ersetzen 120 bisherige Varianten. Ein Vergleich gegen den vorherigen Bestand bestätigt 1.880 unveränderte Datensätze, darunter sämtliche 1.600 Aufgaben außerhalb der Organik. 40 neue Fragen betreffen Struktur und Reaktivität, 80 Reaktionsmechanismen. Die Zahl der Alkanol-Klassifikationsvarianten sinkt von 19 auf 3. Behaltene Vorlagenfamilien in „Organische Reaktionswege“ enthalten höchstens zehn Varianten. Zusätzlich geprüfte Erhaltung: 200 Fragen pro Kategorie, bisherige IDs der behaltenen Fragen und Speicherversion.
 
 ## Funktionstests
 
 - Alle Datensätze: IDs, normalisierte Fragen, Antworten, Quellen und genau eine richtige Auswahl
 - Gemischte Runde verteilt 20 Fragen über alle 10 Kategorien
-- Start unter GitHub-Pages-Unterpfad, keine externen Spiel-Anfragen
+- Start direkt aus lokalem Ordner, keine externen Spiel-Anfragen
 - Falsche Auswahl zeigt sofort Falsch, richtige Lösung und Wiederholungszähler
 - Neuladen erhält laufende Frage, Bewertung und Fortschritt
 - Richtige Antwort, Weiter und Rundenabschluss zählen korrekt
@@ -52,6 +56,7 @@ Niveaus: E/Grundlagen 522, gA 993, eA 485. gA-Auswahl in der App schließt E ein
 - Mobile Breite 375 px: keine horizontale Überbreite; Antworten bedienbar
 - Ohne localStorage spielbar, Speichereinschränkung wird angezeigt
 - Direkt per index.html vom Dateisystem spielbar
+- Neue lange Mechanismusfrage bei 375 px: neutrale Überschrift, richtige Bewertung und Erklärung
 - Keine unbehandelten JavaScript-Fehler im Test
 
 Zusätzlich: Chemie-spezifischer Zahlenabgleich, Unterscheidung von Co und CO sowie Ladungen, Niveau-/Typfilter und feste neutrale Überschrift. Der frühere Quellentitel erscheint nicht mehr vor der Frage. Desktop und 375-Pixel-Mobilansicht geprüft.
@@ -60,4 +65,4 @@ Zusätzlich: Chemie-spezifischer Zahlenabgleich, Unterscheidung von Co und CO so
 
 Themenorientierung am KC 2022; kein Anspruch auf vollständige curriculare Abdeckung oder jahrgangsspezifische Abiturvorbereitung. Kurze Auswahl-/Rechenaufgaben prüfen keine vollständigen experimentellen, zeichnerischen oder argumentativen Leistungen. Manche Rechenmodelle (z. B. vorgegebene kinetische Gesetze) sind ergänzende Übungen. Textantworten werden nicht semantisch interpretiert. Rundungstoleranz entspricht einer halben Einheit der letzten geforderten Nachkommastelle. Andere Einheiten werden nicht konvertiert.
 
-SHA-256 von questions.js: cc0ec9dd46bdc7cf2dce9c296cc68b8ae97a1ae719354da2ae425b9250f4d8da
+SHA-256 von questions.js: 66aedf59069fc8c39c7588f29497b83483baa72666c46db2445bd8b584cd25c5

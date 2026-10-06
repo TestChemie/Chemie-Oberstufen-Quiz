@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-06",
   "count": 2000,
   "curriculum": "https://cuvo.nibis.de/cuvo.php?p=download&upload=362",
   "levels": {
-    "E": 522,
-    "gA": 993,
-    "eA": 485
+    "E": 491,
+    "gA": 958,
+    "eA": 551
   },
   "categories": {
     "Stoffaufbau": 200,
@@ -20,11 +20,11 @@
     "Makromoleküle & Analytik": 200
   },
   "types": {
-    "Verständnis": 426,
-    "Rechenvariante": 1574
+    "Verständnis": 485,
+    "Rechenvariante": 1515
   },
-  "families": 223,
-  "sha256": "cc0ec9dd46bdc7cf2dce9c296cc68b8ae97a1ae719354da2ae425b9250f4d8da",
+  "families": 236,
+  "sha256": "66aedf59069fc8c39c7588f29497b83483baa72666c46db2445bd8b584cd25c5",
   "checks": "Siehe PRUEFBERICHT.md. Keine unabhängige fachliche Einzelprüfung aller Aufgaben.",
   "records": [
     {
@@ -4736,12 +4736,6 @@
       "check": {}
     },
     {
-      "id": "ch-6b5413d81489f8fc",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
       "id": "ch-395dc4a5d35a1275",
       "family": "Stoffklassen erkennen",
       "level": "E",
@@ -4843,12 +4837,6 @@
       "level": "gA",
       "kind": "Rechenvariante",
       "check": {}
-    },
-    {
-      "id": "ch-d9985697b3548929",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
-      "kind": "Verständnis"
     },
     {
       "id": "ch-9edc07d311ae74ae",
@@ -4954,12 +4942,6 @@
       "check": {}
     },
     {
-      "id": "ch-93225750d0101101",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
       "id": "ch-994cb685ff059fff",
       "family": "Stoffklassen erkennen",
       "level": "E",
@@ -5061,12 +5043,6 @@
       "level": "gA",
       "kind": "Rechenvariante",
       "check": {}
-    },
-    {
-      "id": "ch-6c7066abf84f6a7a",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
-      "kind": "Verständnis"
     },
     {
       "id": "ch-f32abab22abd289f",
@@ -5172,12 +5148,6 @@
       "check": {}
     },
     {
-      "id": "ch-92626ff1965b23c0",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
       "id": "ch-16e0010f75d842ee",
       "family": "Stoffklassen erkennen",
       "level": "E",
@@ -5281,12 +5251,6 @@
       "check": {}
     },
     {
-      "id": "ch-d07c9c16c6b4b213",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
       "id": "ch-63956dc59fc5fcac",
       "family": "Stoffklassen erkennen",
       "level": "E",
@@ -5383,230 +5347,243 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-e6cde57f78f97bd2",
-      "family": "Hydrierungsbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-9439e3ce39a1a937",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-2774f0142358f326",
-      "family": "Stoffklassen erkennen",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-2fcf6cc0fe6ac991",
-      "family": "Cycloalkane: Wasserstoffzahl",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-dfe8e501f8caffef",
-      "family": "Monoalkene: σ-Bindungen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-697486d156ac7ff7",
-      "family": "Alkine: molare Masse",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-29a12b19444508c2",
-      "family": "Summenformeln: Alkane",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-636d57200588eb71",
-      "family": "Namen: Alkane",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-7865a71fa8cbd332",
-      "family": "Molare Masse organischer Stoffe",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "linear",
-        "a": 14,
-        "b": 11,
-        "c": 2
-      }
-    },
-    {
-      "id": "ch-5348e7f95d72a068",
-      "family": "Bindungszählung: Alkane",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-7c10b05cbdce9bd2",
-      "family": "Summenformeln: Alkanole",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-a5ec14381521f384",
-      "family": "Molare Masse: Alkanole",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-604e3d92238ffb42",
-      "family": "Summenformeln: Alkansäuren",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-6c1e48bf2ed012c0",
-      "family": "Kohlenstoff-Massenanteil",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-82fe60d758999f7d",
-      "family": "Summenformeln: Alkene",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-6818e007a0d92de5",
-      "family": "Summenformeln: Alkine",
+      "id": "ch-4eccbb59383b015e",
+      "family": "Struktur und Reaktivität: Elektronendichte",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-7d4156b6abd6c85e",
-      "family": "Hydrierungsbilanz",
+      "id": "ch-7a42c113961144db",
+      "family": "Struktur und Reaktivität: Elektronendichte",
       "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-bfde9ca4cd3866a3",
-      "family": "Alkanole klassifizieren",
-      "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-a8ffbeea3297573a",
-      "family": "Summenformeln: Alkane",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-4e09dfff7f9ed6b3",
-      "family": "Namen: Alkane",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-609f225151d31f6b",
-      "family": "Molare Masse organischer Stoffe",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "linear",
-        "a": 14,
-        "b": 12,
-        "c": 2
-      }
-    },
-    {
-      "id": "ch-a208e82c471007c7",
-      "family": "Bindungszählung: Alkane",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-cb0e8c9fcc244187",
-      "family": "Summenformeln: Alkanole",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-5fa3ddb735152127",
-      "family": "Molare Masse: Alkanole",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-254ac26010f875bc",
-      "family": "Summenformeln: Alkansäuren",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-95d8706735f7d5f4",
-      "family": "Kohlenstoff-Massenanteil",
+      "id": "ch-a13c6cad9e072fd1",
+      "family": "Struktur und Reaktivität: Elektronendichte",
       "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-be6a32aab244670a",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-59012667dcb5bfd1",
+      "family": "Struktur und Reaktivität: Elektronendichte",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-12df4f4b10476bf0",
+      "family": "Struktur und Reaktivität: Elektronendichte",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-15114b660eba486c",
+      "family": "Struktur und Reaktivität: Elektronendichte",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f2d2ce095872ce1a",
+      "family": "Struktur und Reaktivität: Elektronendichte",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-891b35ca071637ef",
+      "family": "Struktur und Reaktivität: Elektronendichte",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-34d5f5245bc42e32",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d092fe2a9e8ff872",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7724f02322adbe68",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d175a7bc438f883e",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-e14112058b590891",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-e733bb969351acd2",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-87e0d67d9899c8eb",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-b0da5604f8c3312a",
+      "family": "Struktur und Reaktivität: Modelle prüfen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7faf9371738bae7a",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-4440fb84ec298cb7",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-1a6b5efdb5045240",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-5751488c4b61e242",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-acefe770839c4517",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-0450000bade1550e",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-2cb8647fbd9b5bd4",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-6b336863f756006a",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-beeadeb2267b53cb",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-6067c064ff3da9f6",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-e580f7d901560b58",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-b6f7e21abd0509e2",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-bcd04c957f936096",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-23ef395e044c0ca5",
-      "family": "Alkanole klassifizieren",
+      "id": "ch-7b277b4899565d49",
+      "family": "Struktur und Eigenschaften: Vergleichen und begründen",
       "level": "E",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f88599105664575a",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-1a0ba82ddc954570",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-61e4ee64e6c8e4a2",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-098438b00c089d11",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-e2f1a73128d75f73",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bf1eec872e987599",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-78de2d0b4f082e97",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-8c07717ab65536a4",
+      "family": "Strukturen lesen und Isomerie begründen",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-b04b85ce5dbd3344",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-c28b768adf0857f9",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-2092fecab29711cd",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-51adc3304b232860",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-e798a053dc04fc41",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-caa8c752253ef70e",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-05f3bcd70686aa84",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-296f90e2aa74bd4c",
+      "family": "Struktur und Reaktivität: begründete Vorhersagen",
+      "level": "eA",
       "kind": "Verständnis"
     },
     {
@@ -6375,529 +6352,483 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-3642ee8862a00607",
-      "family": "Hydrierung: Alkene",
+      "id": "ch-fe8b8d33c0685b50",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-ffff998615329870",
-      "family": "Verbrennung: Sauerstoffbedarf",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-21f1f72f1b8d5bf1",
-      "family": "Verbrennung: Wasserbildung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-a48f95beb57bdf46",
-      "family": "Oxidation: sekundäre Alkohole",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-e46bcba80e35fa58",
-      "family": "Ester aus Edukten",
+      "id": "ch-19e2e5b5323c70de",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-07b4685ac17eb82e",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-3460ce5ac372b25a",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-eedfb1fecb25c757",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-b68ad17fbb13c41c",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-3e99402c1d0315b7",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-d489cae7b294db21",
-      "family": "Oxidation: primäre Alkohole",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-7976386457764126",
-      "family": "Oxidation: Aldehyde",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-eac38f8b4867d61c",
-      "family": "Hydrierung: Alkene",
+      "id": "ch-8a3d338f4154c4ea",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-28875d87bd144815",
-      "family": "Verbrennung: Sauerstoffbedarf",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-6c2041d9edb4e56b",
-      "family": "Verbrennung: Wasserbildung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-35a0c01f77738c20",
-      "family": "Ester aus Edukten",
+      "id": "ch-07c0b12c456ea6ad",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-de4633be4e7fee26",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-ca7aff82a68554af",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-1f0de726ef381545",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-9257274632678e97",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-5009a025f61182d2",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-ec0121b569c4f9d4",
-      "family": "Ester aus Edukten",
+      "id": "ch-df370d4d7bd1d7db",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-db610677bca4b6f8",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-a5c39752e4d9acb6",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-3d43b5110c59ecc0",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-78c55c2f9671425a",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-a6b534f83dfae8de",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-9267e029bfe70368",
-      "family": "Ester aus Edukten",
+      "id": "ch-ac743284967f8938",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-56462cd46c562e85",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-14742ad996ae860c",
+      "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-e7a64817edb395c9",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-c2ab37f800109e4b",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-9a01cd98ae38327f",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-deab443a972c86ff",
-      "family": "Ester aus Edukten",
+      "id": "ch-30261b4cb95c4e8f",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-0391290444fb53a4",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-7f11670b5b594c10",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-0ba4f38d0308b6c1",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-b76ff6c0bc391c72",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-38fe9fbd6127d7fd",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-8bec1f8601b405a4",
-      "family": "Ester aus Edukten",
+      "id": "ch-f6da0e3e91d36f7c",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-ec3b1302c7dfed0f",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-8d8c3a311bcf4aac",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-29f2d80b61a64ef7",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-3a3bc2c2fbf23ee8",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-8dfa92fe10d040be",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-1888fa18657ca69e",
-      "family": "Ester aus Edukten",
+      "id": "ch-b2e8b603c9f3f446",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-ad66c5b103f11db8",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-0effcc15831d8713",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-1919fd8b33f680e3",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-62ebf40c6a2d438a",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-1a8328ce47710025",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-c67310e3b63badc4",
-      "family": "Ester aus Edukten",
+      "id": "ch-24fb5b29ac0ddc6a",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-b37d07f1f6a7ee9b",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-00f48ee294a505e2",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-9f7616dddd90ff4b",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-34c2b4a48f0d3b8c",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-122e70c1da4be628",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-66824e458b841233",
-      "family": "Ester aus Edukten",
+      "id": "ch-656b4e20da8d0d42",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-209694656e2a82bd",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-856852684b37ea81",
+      "family": "Mechanismen: radikalische Substitution",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-b1e3d7d76ba4f012",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-12e0430f35e25203",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-9bed2f62c6e6b314",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-2484449979823fac",
-      "family": "Ester aus Edukten",
+      "id": "ch-72cc49b6b0fbcce0",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-169147ec78936046",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-2a8da2b8ab34a93a",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-ea334a26ac10e710",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-84d7bf7b98393a02",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-1425bf4f6fd6ff54",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-1c4541f337ee972f",
-      "family": "Ester aus Edukten",
+      "id": "ch-085649557ee820bf",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-b05b70b453ef43c9",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-52a033d2a29a6a86",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-108d02da73b90807",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-8d3d87ddd9c50e95",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-e21dafdbf2fe23f8",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-cdf8d205b84e448c",
-      "family": "Ester aus Edukten",
+      "id": "ch-bd42943ad10982f6",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-f9b227fac996b75e",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-934889c0c1d0f75d",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-a972ece58700a253",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-4d08cda57e0cfa85",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-17685f7dde0c843e",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-278bec27b0b6d582",
-      "family": "Ester aus Edukten",
+      "id": "ch-fea9853e51764169",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-b061d39d9b2ac8cf",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-55b00c3a0e0dd757",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-fd1156e3bbb53472",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-60aec6d2e4069374",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-8fa53721d45df707",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-2fa108e71c93c52f",
-      "family": "Ester aus Edukten",
+      "id": "ch-84941fd5fc1cb960",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-4394d0dda266987a",
-      "family": "Esterhydrolyse: Alkohol",
+      "id": "ch-7718bb8602d8d25d",
+      "family": "Mechanismen: elektrophile Addition",
       "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-d9ca40fa587242a6",
-      "family": "Ester: C-Atombilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
+      "id": "ch-8bb89bcbc14e9002",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-8b5955be43217154",
-      "family": "Additionsreaktion: Stoffmengen",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
+      "id": "ch-cafd6b28c7931d6f",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-a65c0871931fa952",
-      "family": "Veresterung: Umsatzbilanz",
-      "level": "gA",
-      "kind": "Rechenvariante",
-      "check": {}
+      "id": "ch-8b4c82a276ae1b01",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-c41be85a483129fe",
-      "family": "Ester aus Edukten",
-      "level": "gA",
+      "id": "ch-aa14fe0669e819c4",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bcfa714e81eb2939",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d5f39aab73e4b302",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-8cc1ad2efa5ceca9",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-560abecf9abe4197",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-27111c23b1f364e5",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-93674b8337eb4e51",
+      "family": "Mechanismen: nucleophile Substitution",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-07d2a53b43154376",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-a22d3a00f4bab762",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-34311629d91fef3f",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d29dbcd4b2adb974",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-87b728d1bf590d23",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-517c12d4340593da",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-6a25fd1617272f4e",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-8e50664158495e84",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bbaec24aca10c2df",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-52e431a2b06a6e93",
+      "family": "Mechanismen: Veresterung und Hydrolyse",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-47fe8d1109389ed3",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-20392ef18e6e4666",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7c68f04b0c0d8f90",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-62ac24042dee13f6",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-440bd0d5c1da0d6d",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-c39efca5ea283bee",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5ab43a80ebe12e81",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-15c87c9cb5a9fdaa",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-faa6122138868c88",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-fbd9edae1b022f0e",
+      "family": "Mechanismen: Eliminierung und Syntheseplanung",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-60e51b4f40da60e5",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-1286c997f1323da1",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-9a4568b62da508d6",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-cbb89f8f69bd70d8",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-069fba92071a7870",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-a1c900224f2ba44f",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-47960cb30e4cde66",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d04605cc1890daae",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-0f719d1fce0bc814",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-201893a10aeead98",
+      "family": "Mechanismen: Aromaten und Kettenaufbau",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7c3d3ecf5fea0bd0",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-295e73646bd32fbb",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f8afc54a08cdb0ce",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-063dd4e43fa1262a",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f589f1875bf8c624",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-6d8ab2d5b86d2c39",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-ec73b0eebf63af31",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-fe94b5b21663f2db",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5e7f3a22c5861c31",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-a92b00bbc4acf218",
+      "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+      "level": "eA",
       "kind": "Verständnis"
     },
     {
