@@ -3,12 +3,12 @@
   "count": 2000,
   "curriculum": "https://cuvo.nibis.de/cuvo.php?p=download&upload=362",
   "levels": {
-    "E": 491,
-    "gA": 958,
+    "E": 291,
+    "gA": 1158,
     "eA": 551
   },
   "categories": {
-    "Stoffaufbau": 200,
+    "Nanopartikel & Naturstoffe": 200,
     "Stoffmengen & Lösungen": 200,
     "Organische Verbindungen": 200,
     "Organische Reaktionswege": 200,
@@ -20,1353 +20,335 @@
     "Makromoleküle & Analytik": 200
   },
   "types": {
-    "Verständnis": 485,
-    "Rechenvariante": 1515
+    "Verständnis": 623,
+    "Rechenvariante": 1377
   },
-  "families": 236,
-  "sha256": "66aedf59069fc8c39c7588f29497b83483baa72666c46db2445bd8b584cd25c5",
+  "families": 260,
+  "sha256": "78ff101827c4f54bc44a4467caae151dbf99482d34caa45125cfcc496b16eaef",
   "checks": "Siehe PRUEFBERICHT.md. Keine unabhängige fachliche Einzelprüfung aller Aufgaben.",
   "records": [
     {
-      "id": "ch-fa6971f976274f9f",
-      "family": "Verständnis: Warum leitet eine Natriumchlorid-Schmelze elektrischen Strom?",
-      "level": "E",
+      "id": "ch-c057d5c22c31835d",
+      "family": "Nanopartikel",
+      "level": "gA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-131e0a20e41c3436",
-      "family": "Verständnis: Warum leitet festes Natriumchlorid unter üblichen Bedingungen kaum Strom?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-729c1132896ce9fb",
-      "family": "Verständnis: Welche Beschreibung passt zur Metallbindung?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-dd839ae7c4dedeaa",
-      "family": "Verständnis: Warum ist CO2 trotz polarer Bindungen kein permanenter Dipol?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-c764e1c21ff0e8ff",
-      "family": "Verständnis: Warum ist ein Wassermolekül ein permanenter Dipol?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-a8493805a74dc339",
-      "family": "Verständnis: Welche Wechselwirkung tritt auch zwischen unpolaren Molekülen auf?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-344a4c9559ed93de",
-      "family": "Verständnis: Was wird beim Sieden von reinem Ethanol überwiegend überwunden?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-b4ad3e22b32d5aba",
-      "family": "Verständnis: Was bedeutet hydrophil?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-28d1ed078f8a7fac",
-      "family": "Verständnis: Welche Eigenschaft besitzen Isotope desselben Elements?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-20021630a20981ed",
-      "family": "Verständnis: Welche Aussage über eine Elektronenpaarbindung ist richtig?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-935f42e08991d831",
-      "family": "Verständnis: Warum kann Wasser gelöste Ionen stabilisieren?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-090c67a9ca405a59",
-      "family": "Verständnis: Welche Aussage über Modelle ist fachlich angemessen?",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-4918335b309f0b8d",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
+      "id": "ch-e28e4669be27402a",
+      "family": "Nanopartikel: Einheiten",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "subtract",
-        "a": 12,
-        "b": 6
+        "op": "ratio",
+        "a": 35,
+        "b": 1000
       }
     },
     {
-      "id": "ch-97b0406d6f25cea3",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
+      "id": "ch-2cd6d19ac4eadbf5",
+      "family": "Nanopartikel: Kugeloberfläche",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "subtract",
+        "op": "ratio",
         "a": 6,
-        "b": 1
-      }
-    },
-    {
-      "id": "ch-98118e2dca4293e3",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-cae01a7f990bac09",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-d0a31e2516951bfa",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-f25b2440e6ba67b7",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 13,
-        "b": 15,
-        "p": 0.21
-      }
-    },
-    {
-      "id": "ch-8ddb73e64060bdf8",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.51,
-        "b": 1.02
-      }
-    },
-    {
-      "id": "ch-38bea43d55a1f472",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 1,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-9ea7be2185630e80",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 14,
-        "b": 7
-      }
-    },
-    {
-      "id": "ch-4de45fbda926e3d3",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 6,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-a5ab1365d0a183ce",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-4316e898a71d01d2",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-a54624ef7a7b65cf",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-cc5ffbc9d4d52446",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 15,
-        "b": 17,
-        "p": 0.22
-      }
-    },
-    {
-      "id": "ch-96a9566990b79f85",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.52,
-        "b": 1.04
-      }
-    },
-    {
-      "id": "ch-c0346e209a7ecc1e",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 2,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-feec38825dc85144",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 16,
-        "b": 8
-      }
-    },
-    {
-      "id": "ch-cd68d920987bd587",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 6,
-        "b": -1
-      }
-    },
-    {
-      "id": "ch-e2e0b52e715cf0f4",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-0e9acd53db8823d0",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-eaf7c76a077eaf1b",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-bf20b823009851a2",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 17,
-        "b": 19,
-        "p": 0.23
-      }
-    },
-    {
-      "id": "ch-9178befe121621be",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.53,
-        "b": 1.06
-      }
-    },
-    {
-      "id": "ch-0ec747481c8a1e3c",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 3,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-0aac4c35721e0d54",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 19,
-        "b": 9
-      }
-    },
-    {
-      "id": "ch-74022d6f7c21684f",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 7,
-        "b": 1
-      }
-    },
-    {
-      "id": "ch-9cad23cab409c90f",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-61b309417c4cefe9",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-3a84d0d459d8cba9",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-1de4dcd30ba12624",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 19,
-        "b": 21,
-        "p": 0.24
-      }
-    },
-    {
-      "id": "ch-f841fa3c1259404f",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.54,
-        "b": 1.08
-      }
-    },
-    {
-      "id": "ch-90aba36625f1f70d",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 4,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-a66d81a768687905",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 23,
-        "b": 11
-      }
-    },
-    {
-      "id": "ch-fd012bb1c456f54e",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 7,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-1a04018c4b2269d8",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-aa654432cba9e249",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-40485ed02c738531",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-262001f1aa39938c",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 21,
-        "b": 23,
-        "p": 0.25
-      }
-    },
-    {
-      "id": "ch-69244827015c72c3",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.55,
-        "b": 1.1
-      }
-    },
-    {
-      "id": "ch-8f9f31cf962258d6",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 5,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-3ac040e52ba8b592",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 24,
         "b": 12
       }
     },
     {
-      "id": "ch-91059c943e8b493e",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
+      "id": "ch-0751915a9bff24f7",
+      "family": "Nanopartikel: Oberflächenvergleich",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "subtract",
-        "a": 7,
-        "b": -1
-      }
-    },
-    {
-      "id": "ch-e4cf0e52bdfcf8d2",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-1ee73ea65c5cfa27",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-42bf5ac280427446",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-d77f39e2c33583da",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 23,
-        "b": 25,
-        "p": 0.26
-      }
-    },
-    {
-      "id": "ch-c21bbe1db145f48d",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.56,
-        "b": 1.12
-      }
-    },
-    {
-      "id": "ch-9f3033bbe0fc22a6",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 6,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-fdf903f5c38d9c98",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 27,
-        "b": 13
-      }
-    },
-    {
-      "id": "ch-52dcd8d1b953d552",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 8,
-        "b": 1
-      }
-    },
-    {
-      "id": "ch-cce64967b8d3f85a",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-0a08041782cc18eb",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-2453b5f01a720c39",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-ca3d13887c75849f",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 25,
-        "b": 27,
-        "p": 0.27
-      }
-    },
-    {
-      "id": "ch-12e8ed5e94ea3909",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.57,
-        "b": 1.1400000000000001
-      }
-    },
-    {
-      "id": "ch-1d71dc865018c72d",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 7,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-c2730ac9340da55c",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 28,
-        "b": 14
-      }
-    },
-    {
-      "id": "ch-da097873acb9f6e5",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 8,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-77c2c239bbca0e65",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-d30ceaebb52e06ed",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-3b1fae1cd52db0f9",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-d5e5293bb34a4c4a",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 27,
-        "b": 29,
-        "p": 0.28
-      }
-    },
-    {
-      "id": "ch-1e39ef0fb8c29dca",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.58,
-        "b": 1.16
-      }
-    },
-    {
-      "id": "ch-de961a6a5437a460",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 8,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-81a8e6e6aa400ead",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 31,
+        "op": "ratio",
+        "a": 60,
         "b": 15
       }
     },
     {
-      "id": "ch-03cbf292a6b9dd25",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
+      "id": "ch-28f465dadf3eb978",
+      "family": "Nanopartikel: Teilchenzahl",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "subtract",
+        "op": "triple",
+        "a": 4,
+        "b": 4,
+        "c": 4
+      }
+    },
+    {
+      "id": "ch-6ce8f51c398f4554",
+      "family": "Nanopartikel: Oberflächensumme",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "triple",
         "a": 8,
-        "b": -1
+        "b": 6,
+        "c": 25
       }
     },
     {
-      "id": "ch-b252a4a65c7ce7a8",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-baf5231f778d8dd0",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-1e2778a4fbf447b8",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-4294269d814b4ebc",
-      "family": "Isotopenmischung",
-      "level": "E",
+      "id": "ch-df1dec6526fe8a5d",
+      "family": "Nanopartikel: Spezifische Oberfläche",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "weighted",
-        "a": 29,
-        "b": 31,
-        "p": 0.29
+        "op": "ratio",
+        "a": 24,
+        "b": 0.4
       }
     },
     {
-      "id": "ch-e6d445e0fb7a4d00",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
+      "id": "ch-a4563175d0d64f9d",
+      "family": "Nanopartikel: Adsorptionsbilanz",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "subtract",
-        "a": 2.59,
-        "b": 1.18
-      }
-    },
-    {
-      "id": "ch-3feaafb2dcff71fd",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
+        "op": "ratio",
         "a": 9,
-        "b": 2
+        "b": 0.5
       }
     },
     {
-      "id": "ch-a552af2fb99eb8e3",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
+      "id": "ch-6177f6353f3ec4bc",
+      "family": "Nanopartikel: Dispersion verdünnen",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "subtract",
-        "a": 32,
-        "b": 16
+        "op": "tripleRatio",
+        "a": 8,
+        "b": 5,
+        "c": 20
       }
     },
     {
-      "id": "ch-c1724391c215fb60",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
+      "id": "ch-82232b1b99a093de",
+      "family": "Nanopartikel: Mittlere Größe",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "subtract",
-        "a": 9,
-        "b": 1
+        "op": "mean",
+        "values": [
+          10,
+          20,
+          30
+        ]
       }
     },
     {
-      "id": "ch-6a4d03bf653a9eb4",
-      "family": "Molekülgeometrie",
-      "level": "E",
-      "kind": "Verständnis"
-    },
-    {
-      "id": "ch-53135335976c65b8",
-      "family": "Lewis: freie Elektronenpaare",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-f0924501e32a49b8",
-      "family": "Elektronendomänen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {}
-    },
-    {
-      "id": "ch-2387076296cdaa6f",
-      "family": "Isotopenmischung",
-      "level": "E",
+      "id": "ch-9ef6db2ce7095d8a",
+      "family": "Nanopartikel: Kern und Hülle",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "weighted",
-        "a": 31,
-        "b": 33,
-        "p": 0.3
-      }
-    },
-    {
-      "id": "ch-1fb085ab388bf68e",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.6,
-        "b": 1.2
-      }
-    },
-    {
-      "id": "ch-0c40b6cbb9a82d35",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 10,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-d30354cfa7657f10",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 35,
-        "b": 17
-      }
-    },
-    {
-      "id": "ch-cbb3938a5ef7fc8d",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 9,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-48acd417f227901e",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 33,
-        "b": 35,
-        "p": 0.31
-      }
-    },
-    {
-      "id": "ch-aebb2e120f7db42f",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.61,
-        "b": 1.22
-      }
-    },
-    {
-      "id": "ch-6ea9bc9601fdc016",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 11,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-76f4befceaef4c0a",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 39,
-        "b": 19
-      }
-    },
-    {
-      "id": "ch-7f348c9142328f70",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 9,
-        "b": -1
-      }
-    },
-    {
-      "id": "ch-c342f0218f224b16",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 35,
-        "b": 37,
-        "p": 0.32
-      }
-    },
-    {
-      "id": "ch-93861ca25675a1cb",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.62,
-        "b": 1.24
-      }
-    },
-    {
-      "id": "ch-61657f0631ac1778",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 12,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-351ac9546efd2c65",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 40,
-        "b": 20
-      }
-    },
-    {
-      "id": "ch-1016e28958898183",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 11,
-        "b": 1
-      }
-    },
-    {
-      "id": "ch-465c28542ba548c8",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 37,
-        "b": 39,
-        "p": 0.33
-      }
-    },
-    {
-      "id": "ch-1089f0aca6057a39",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.63,
-        "b": 1.26
-      }
-    },
-    {
-      "id": "ch-822603c8eb4f3fe0",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 13,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-aa20914ad6405dbb",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 56,
-        "b": 26
-      }
-    },
-    {
-      "id": "ch-eae231f7ae01a8ee",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 11,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-8fd38b42f4c588a5",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 39,
-        "b": 41,
-        "p": 0.34
-      }
-    },
-    {
-      "id": "ch-84409b6572ecfe8b",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.64,
-        "b": 1.28
-      }
-    },
-    {
-      "id": "ch-7121cbf0998610c3",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 14,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-f697f4574a930c00",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 63,
-        "b": 29
-      }
-    },
-    {
-      "id": "ch-7eec41967057a893",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 11,
-        "b": -1
-      }
-    },
-    {
-      "id": "ch-6138a855203e219a",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 41,
-        "b": 43,
-        "p": 0.35
-      }
-    },
-    {
-      "id": "ch-885e7285c2c12ba1",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.65,
-        "b": 1.3
-      }
-    },
-    {
-      "id": "ch-6ef0ed0877695f8f",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 15,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-47c7bf55df3f09f0",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 64,
-        "b": 30
-      }
-    },
-    {
-      "id": "ch-0918e00013181f2b",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 12,
-        "b": 1
-      }
-    },
-    {
-      "id": "ch-d9c386feda65ef76",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 43,
-        "b": 45,
-        "p": 0.36
-      }
-    },
-    {
-      "id": "ch-c2ec548b9e28c8f1",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.66,
-        "b": 1.32
-      }
-    },
-    {
-      "id": "ch-0e899b03e6ebd9d4",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 16,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-c9b7fa983f5dec1f",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 79,
-        "b": 35
-      }
-    },
-    {
-      "id": "ch-68f55c7c8de30a57",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 12,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-04efe41b68f56ef8",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 45,
-        "b": 47,
-        "p": 0.37
-      }
-    },
-    {
-      "id": "ch-72bf33ea8c89e0d3",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.67,
-        "b": 1.34
-      }
-    },
-    {
-      "id": "ch-89e38b9bbd22feed",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 17,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-3df848e555ae2b1b",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 107,
-        "b": 47
-      }
-    },
-    {
-      "id": "ch-daa9e7321c84c703",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 12,
-        "b": -1
-      }
-    },
-    {
-      "id": "ch-7807b8432baea538",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 47,
-        "b": 49,
-        "p": 0.38
-      }
-    },
-    {
-      "id": "ch-a14c382fe15bd36d",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.68,
-        "b": 1.3599999999999999
-      }
-    },
-    {
-      "id": "ch-90ef9509ddd672ca",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
+        "op": "sum",
         "a": 18,
+        "b": 4
+      }
+    },
+    {
+      "id": "ch-64712782127719dc",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-75af3878582a534c",
+      "family": "Kohlenhydrate: Glucose-Stoffmenge",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "ratio",
+        "a": 9,
+        "b": 180
+      }
+    },
+    {
+      "id": "ch-9bf087a8b449b3d8",
+      "family": "Kohlenhydrate: Lösungskonzentration",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "ratio",
+        "a": 0.03,
+        "b": 0.25
+      }
+    },
+    {
+      "id": "ch-428e00b5097bf816",
+      "family": "Kohlenhydrate: Disaccharidmasse",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "subtract",
+        "a": 360,
+        "b": 18
+      }
+    },
+    {
+      "id": "ch-6def8ed06e1fea9f",
+      "family": "Kohlenhydrate: Hydrolysebilanz",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "product",
+        "a": 0.4,
         "b": 2
       }
     },
     {
-      "id": "ch-e81da6be870079e3",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
+      "id": "ch-e91fc38d0e2d19c6",
+      "family": "Kohlenhydrate: Polymer-Endgruppen",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "subtract",
-        "a": 127,
-        "b": 53
+        "a": 3600,
+        "b": 342
       }
     },
     {
-      "id": "ch-207bd628f009a925",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
+      "id": "ch-7cd810bc142c8b89",
+      "family": "Kohlenhydrate: Bindungen spalten",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "subtract",
-        "a": 13,
+        "a": 16,
         "b": 1
       }
     },
     {
-      "id": "ch-fdaa6ca63a3ed77f",
-      "family": "Isotopenmischung",
-      "level": "E",
+      "id": "ch-90293d3a183cea4a",
+      "family": "Kohlenhydrate: Massenanteil Kohlenstoff",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "weighted",
-        "a": 49,
-        "b": 51,
-        "p": 0.39
+        "op": "percent",
+        "a": 72,
+        "b": 180
       }
     },
     {
-      "id": "ch-9ee2bdbdff074251",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.69,
-        "b": 1.38
-      }
-    },
-    {
-      "id": "ch-fc02286f799ccd90",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
+      "id": "ch-414624561927477f",
+      "family": "Kohlenhydrate: Gärungsbilanz",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "product",
-        "a": 19,
+        "a": 0.75,
         "b": 2
       }
     },
     {
-      "id": "ch-d1b50214be528c3f",
-      "family": "Atomteilchen: Neutronen",
-      "level": "E",
+      "id": "ch-44a1f9aa6e21b651",
+      "family": "Kohlenhydrate: Saccharose-Hydrolyse",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "tripleRatio",
+        "a": 68.4,
+        "b": 180,
+        "c": 342
+      }
+    },
+    {
+      "id": "ch-2337ecccccdc47f0",
+      "family": "Kohlenhydrate: Wasseraufnahme",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "product",
+        "a": 5,
+        "b": 18
+      }
+    },
+    {
+      "id": "ch-83cba41d8cd20f80",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-a14ac6de88375a8f",
+      "family": "Aminosäuren: Glycinmasse",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "sum",
+        "a": 43,
+        "b": 32
+      }
+    },
+    {
+      "id": "ch-0672d6911310c071",
+      "family": "Aminosäuren: Alanin-Stoffmenge",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "ratio",
+        "a": 8.9,
+        "b": 89
+      }
+    },
+    {
+      "id": "ch-014267651e36449d",
+      "family": "Aminosäuren: Verdünnung",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "tripleRatio",
+        "a": 0.2,
+        "b": 10,
+        "c": 50
+      }
+    },
+    {
+      "id": "ch-6afdca0acb5587af",
+      "family": "Aminosäuren: Isoelektrischer Punkt neutraler Seitenkette",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "mean",
+        "values": [
+          2.4,
+          9.6
+        ]
+      }
+    },
+    {
+      "id": "ch-58fe663fd348bb0f",
+      "family": "Aminosäuren: Isoelektrischer Punkt saurer Seitenkette",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "mean",
+        "values": [
+          2,
+          4
+        ]
+      }
+    },
+    {
+      "id": "ch-f5d5714f499cf7ac",
+      "family": "Aminosäuren: Isoelektrischer Punkt basischer Seitenkette",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "mean",
+        "values": [
+          9,
+          10.6
+        ]
+      }
+    },
+    {
+      "id": "ch-16266b7977d8c3ff",
+      "family": "Aminosäuren: Ladungssumme",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "subtract",
@@ -1375,697 +357,1089 @@
       }
     },
     {
-      "id": "ch-c2d577ea4ba47ca3",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 13,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-113c7f41c9b20803",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 51,
-        "b": 53,
-        "p": 0.4
-      }
-    },
-    {
-      "id": "ch-05a20c12ba0a9ea1",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.7,
-        "b": 1.4
-      }
-    },
-    {
-      "id": "ch-43f977519230c7cd",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
+      "id": "ch-80841e5c91141a63",
+      "family": "Aminosäuren: Protonierungsverhältnis",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "product",
-        "a": 20,
-        "b": 2
+        "a": 10,
+        "b": 10
       }
     },
     {
-      "id": "ch-5097363ae983c735",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 13,
-        "b": -1
-      }
-    },
-    {
-      "id": "ch-4d8179e5d1489cec",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 53,
-        "b": 55,
-        "p": 0.41
-      }
-    },
-    {
-      "id": "ch-451cd8901486bd7f",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.71,
-        "b": 1.42
-      }
-    },
-    {
-      "id": "ch-951206646037b27f",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
+      "id": "ch-c968a05b335f1234",
+      "family": "Aminosäuren: Äquivalenzstoffmenge",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "product",
-        "a": 21,
-        "b": 2
-      }
-    },
-    {
-      "id": "ch-5293b9d04936115b",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 14,
+        "a": 0.025,
         "b": 1
       }
     },
     {
-      "id": "ch-d2f999a7d37371e3",
-      "family": "Isotopenmischung",
-      "level": "E",
+      "id": "ch-2ebbb72791a7642b",
+      "family": "Aminosäuren: Disulfidbilanz",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
-        "op": "weighted",
-        "a": 55,
-        "b": 57,
-        "p": 0.42
-      }
-    },
-    {
-      "id": "ch-9dcd09b1b8316261",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.72,
-        "b": 1.44
-      }
-    },
-    {
-      "id": "ch-e85b76b5d444924d",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 22,
+        "op": "ratio",
+        "a": 12,
         "b": 2
       }
     },
     {
-      "id": "ch-372f2fe831932c4c",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
+      "id": "ch-c04acd662738bc5c",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-1b080dc848518456",
+      "family": "Proteine: Peptidbindungen",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "subtract",
-        "a": 14,
-        "b": 2
+        "a": 9,
+        "b": 1
       }
     },
     {
-      "id": "ch-141b4f7d0ea835ed",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 57,
-        "b": 59,
-        "p": 0.43
-      }
-    },
-    {
-      "id": "ch-b233793f48a2e522",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
+      "id": "ch-11047cf993d686a7",
+      "family": "Proteine: Kondensationsmasse",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "subtract",
-        "a": 2.73,
-        "b": 1.46
+        "a": 164,
+        "b": 18
       }
     },
     {
-      "id": "ch-0f899b97af9e72e9",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
+      "id": "ch-338d54fb1f81d45c",
+      "family": "Proteine: Tripeptidmasse",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "subtract",
+        "a": 269,
+        "b": 36
+      }
+    },
+    {
+      "id": "ch-29f1466747321f91",
+      "family": "Proteine: Hydrolyse-Wasser",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "product",
-        "a": 23,
-        "b": 2
+        "a": 0.2,
+        "b": 5
       }
     },
     {
-      "id": "ch-dd14bdf262ec4b1e",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 14,
-        "b": -1
-      }
-    },
-    {
-      "id": "ch-74edf9af36993553",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 59,
-        "b": 61,
-        "p": 0.44
-      }
-    },
-    {
-      "id": "ch-ff6b99664db19f6e",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.74,
-        "b": 1.48
-      }
-    },
-    {
-      "id": "ch-376dbcc6a5c2befe",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
+      "id": "ch-259d99af7d2c192d",
+      "family": "Proteine: Hydrolyse-Ausbeute",
+      "level": "gA",
       "kind": "Rechenvariante",
       "check": {
         "op": "product",
+        "a": 0.03,
+        "b": 10
+      }
+    },
+    {
+      "id": "ch-bab54b5d4e4c6df6",
+      "family": "Proteine: Kettenenden",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "product",
+        "a": 0.4,
+        "b": 1
+      }
+    },
+    {
+      "id": "ch-f36ad856208f2c81",
+      "family": "Proteine: Untereinheiten",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "product",
+        "a": 4,
+        "b": 25000
+      }
+    },
+    {
+      "id": "ch-972f587ed5fb9927",
+      "family": "Proteine: Massenkonzentration",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "ratio",
+        "a": 12,
+        "b": 3
+      }
+    },
+    {
+      "id": "ch-ecaee302db830271",
+      "family": "Proteine: Modell-Ladung",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "subtract",
+        "a": 4,
+        "b": 6
+      }
+    },
+    {
+      "id": "ch-6049f655fd4ec9e4",
+      "family": "Proteine: Enzymaktivität",
+      "level": "gA",
+      "kind": "Rechenvariante",
+      "check": {
+        "op": "ratio",
         "a": 24,
-        "b": 2
+        "b": 3
       }
     },
     {
-      "id": "ch-bfe86892ed7a4bdf",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 15,
-        "b": 1
-      }
+      "id": "ch-d4ecad56aa1af30f",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-fdd7fcb7a26457cc",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 61,
-        "b": 63,
-        "p": 0.45
-      }
+      "id": "ch-a0c1d420fd295579",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-d5776b970875ec79",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.75,
-        "b": 1.5
-      }
+      "id": "ch-90841ba16094a63f",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-98cee01ff273ab32",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 25,
-        "b": 2
-      }
+      "id": "ch-2f907bc28fb2f366",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-5009943ee803c4c9",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 15,
-        "b": 2
-      }
+      "id": "ch-d7632ce6a0a23447",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-c8da492d97a1b400",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 63,
-        "b": 65,
-        "p": 0.46
-      }
+      "id": "ch-ea5ca8eb7455bd25",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-1779c77c138cd13a",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.76,
-        "b": 1.52
-      }
+      "id": "ch-0820a044eeb58316",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-ac8a98973815e843",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 26,
-        "b": 2
-      }
+      "id": "ch-cc09488d816c3946",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-0864a367790884e7",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 15,
-        "b": -1
-      }
+      "id": "ch-3d3c30ce7d5f86d0",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-87c1754a0373d23d",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 65,
-        "b": 67,
-        "p": 0.47
-      }
+      "id": "ch-6d485e882d4be44c",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-312fc6114ee14c45",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.77,
-        "b": 1.54
-      }
+      "id": "ch-7ffb7ee0783c9528",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-6f32f61716603a54",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 27,
-        "b": 2
-      }
+      "id": "ch-5ae142fcf699dec6",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-15b9c927efffa8cd",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 16,
-        "b": 1
-      }
+      "id": "ch-0b5a98c17ad0de1f",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-2e1e78d907cdb526",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 67,
-        "b": 69,
-        "p": 0.48
-      }
+      "id": "ch-5604e16b5241b429",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-0861b20c59a8cd25",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.7800000000000002,
-        "b": 1.56
-      }
+      "id": "ch-3cf9a32f2c674f8f",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-11bc88cccb3005e7",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 28,
-        "b": 2
-      }
+      "id": "ch-af844510516c2680",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-077505128a584846",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 16,
-        "b": 2
-      }
+      "id": "ch-863accc156364349",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-8a76c6779a48a486",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 69,
-        "b": 71,
-        "p": 0.49
-      }
+      "id": "ch-0f7b160a5278b020",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-29f79d1f2578267b",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.79,
-        "b": 1.58
-      }
+      "id": "ch-367019587f69e65f",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-54c63384d0a3b937",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 29,
-        "b": 2
-      }
+      "id": "ch-f1089ac6106a1049",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-f6e87a985d20d823",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 16,
-        "b": -1
-      }
+      "id": "ch-c4e7f78af341bfd4",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-1e681869f7a5f983",
-      "family": "Isotopenmischung",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "weighted",
-        "a": 71,
-        "b": 73,
-        "p": 0.5
-      }
+      "id": "ch-95a1c179d57ec8ce",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-fe8c554467e5506b",
-      "family": "Elektronegativitätsdifferenz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 2.8,
-        "b": 1.6
-      }
+      "id": "ch-b818997c23a2d3bf",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-8761ab23fcde2c77",
-      "family": "Ionengitter: Ladungsausgleich",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "product",
-        "a": 30,
-        "b": 2
-      }
+      "id": "ch-3859d991a29885b9",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-1861d0cf119119c8",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 17,
-        "b": 1
-      }
+      "id": "ch-5c24cc6a644024b2",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-93f188abb0247338",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 17,
-        "b": 2
-      }
+      "id": "ch-feb861d39c2486ea",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-8ad0a2ca0930425b",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 17,
-        "b": -1
-      }
+      "id": "ch-4c4723ed0ee13ae3",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-9c8c9142338aa07c",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 19,
-        "b": 1
-      }
+      "id": "ch-dbc4068d51da2909",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-a1f8b50863fa5d80",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 19,
-        "b": 2
-      }
+      "id": "ch-668e40660d0e5ae5",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-69dac629f65cb038",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 19,
-        "b": -1
-      }
+      "id": "ch-4803925326b3d2f7",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-a8c37fe4f254c0a7",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 20,
-        "b": 1
-      }
+      "id": "ch-47aa9e089e834099",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-9da2e87982b5dcbf",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 20,
-        "b": 2
-      }
+      "id": "ch-5feae35092c1c47d",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-75e44b210ca7a6e1",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 20,
-        "b": -1
-      }
+      "id": "ch-ab79deb8af7b5b10",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-0f7c57e92e16051a",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 26,
-        "b": 1
-      }
+      "id": "ch-a502a8d1afb21fdc",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-89236ede094e124c",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 26,
-        "b": 2
-      }
+      "id": "ch-ca6b95ac8ee783bc",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-8e2fa160a6620958",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 26,
-        "b": -1
-      }
+      "id": "ch-e1e0b798553b2495",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-0f54e9c092b7c0fc",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 29,
-        "b": 1
-      }
+      "id": "ch-71f3224a51ed3858",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-afb635c1f8755216",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 29,
-        "b": 2
-      }
+      "id": "ch-acc12ec346d503d1",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-1195920ef5cbb601",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 29,
-        "b": -1
-      }
+      "id": "ch-c27a41f2642d3b2b",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-3f66a1802120bcff",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 30,
-        "b": 1
-      }
+      "id": "ch-c5ee5f48343b2f9f",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-9cb87ceec78c18bd",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 30,
-        "b": 2
-      }
+      "id": "ch-f4922082992a0a93",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
-      "id": "ch-221a204e784d9d51",
-      "family": "Atomteilchen: Ionenbilanz",
-      "level": "E",
-      "kind": "Rechenvariante",
-      "check": {
-        "op": "subtract",
-        "a": 30,
-        "b": -1
-      }
+      "id": "ch-0ecac92822259b4a",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-17fd97bac59866d8",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-8c6581a0d2f5bd61",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7cc7788ea56698db",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-739698d8a49178b7",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-22e54933195c8b8d",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-a8248d7e2d29a74d",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-ca7110cce8afb0e7",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-47e7e0066233f2cb",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-19f1337afbddc8a3",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f9dc0fe891caf558",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f5381a8a3b677bc6",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-73c246b41ffe5c3d",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-c61ac96963614530",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-561df74bd1675f11",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d6a4094a97192fd3",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-00096aa2e5c8ca19",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bfea0aaa6cd3c8b5",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-288582ca9387f29f",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-33de0f838bfd3345",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-1d788cbca425fd21",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-572d6a70de51effc",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d8075060569e315f",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d8b88afeb4761a6c",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-13832d40c766015d",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-4934f5ec870bfcb7",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bac7a9671e7c1992",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-87b5005a4aba4ec5",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-dec5068338517170",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-1465aaee12d2a0e7",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-8faf8d658ee4c5e3",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-733ec2fc80adf6cc",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-b137067e83e007fc",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-54a5d8e5195745f7",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5fcf5b2969485189",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-629afdee8f42e2de",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-264da9b85e222e42",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5f659417a72fd38b",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-673a4f1f62f776cf",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-a8fab11fa94ab5d2",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-284fb9e3cd2a6a05",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-10027320845df2db",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-c9cc5f662aa76bb7",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-80b615f203e83208",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-4835694cfe134949",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-393026a32a726c90",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-2f0f5c99808d7479",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-251e30849f569c30",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-3da477a3a97b5095",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5bb63d6e0ea8780d",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-4568d293188483e2",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-cf307a6ad1dd3242",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-881dca7a0ef671d9",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-50550dece4e8b370",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-b44d23edd59584b8",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-577aed2cc9bc9724",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-895dc3847627db06",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-186551c53b6fcfa4",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5131d05f67913abc",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-735565fdbb0a74eb",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-91a32e26fe289cb2",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f566b931a62b2a11",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bace48e532280319",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-9a7dbeb059909338",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-591303645bd4a870",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-c24204921582b8c2",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bd7f19563e9847cc",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-e533399da50b255b",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-79603d2c336bb890",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-ae2eb46d442ceaea",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-8de2be333b2044b6",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-6e3ab8f6c193d47f",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-ae347c19417ce7f6",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-2363f12e30c0b674",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d2105886cc2391c5",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-2482060029ea7ef9",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-51feb714c8bb8aff",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-927eca66df6c0bf5",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-ed5747a7196f6939",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-d2f44872261965f7",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f2e4d66357319bb1",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-2f842f5946fe815c",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-01b19a469ed462d3",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-9ebab60f09901304",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-fc57375def37a2e4",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-bad835d8f0d0285c",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-20a84d9093306a84",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-6d897b041d4bca17",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-810ef24f5d13c463",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-43e19a9e352643b6",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-e9f60471beae4e31",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-425882b61b923388",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-6c5d8be8314372de",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5dfea306852c94a3",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5659184cd7450e9f",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-8bb4e739c794ff79",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5fde976dcc6ab45a",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-63301e42f28e0aa8",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-f3c0cd6f5a6db858",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-520a21d3fa5a4da6",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-30c6738ef8617713",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-3fe9314521d6023c",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-e455c477a1ff15f9",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-09878743cef6b41b",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-14d55fcb244df4d2",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-349e579ae8cf1c6b",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-785c2265e538d3c4",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-4bde68db007179d0",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7ee6158368a95541",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-c8cc5b0d36f13b33",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-5d4ecbba3ace63fd",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7bfce2ca3ea4cae7",
+      "family": "Nanopartikel",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-03a58c227183ba9a",
+      "family": "Kohlenhydrate",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-1e27a519c33cb272",
+      "family": "Aminosäuren",
+      "level": "gA",
+      "kind": "Verständnis"
+    },
+    {
+      "id": "ch-7e11f625b833b74b",
+      "family": "Proteine",
+      "level": "gA",
+      "kind": "Verständnis"
     },
     {
       "id": "ch-d32894cf82380a3f",

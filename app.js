@@ -9,8 +9,9 @@
  function save(){try{localStorage.setItem(key,JSON.stringify({history,session}));storageAvailable=true;}catch(_){storageAvailable=false;}storageNote();}
  function storageNote(){$('storage-note').textContent=storageAvailable?'Wird nur in diesem Browser gespeichert.':'Der Browser erlaubt keine Speicherung. Dein Fortschritt gilt nur für diese geöffnete Seite.';}
  $('total-header').textContent=number(questions.length);
- const categories=[...new Set(questions.map(q=>q.category))].sort((a,b)=>a.localeCompare(b,'de'));
- for(const c of categories){const o=document.createElement('option');o.value=c;o.textContent=c+' · '+number(questions.filter(q=>q.category===c).length);$('category').append(o);}
+ const semesters=data.categorySemesters||{};
+ const categories=[...new Set(questions.map(q=>q.category))].sort((a,b)=>(semesters[a]||5)-(semesters[b]||5)||a.localeCompare(b,'de'));
+ for(const c of categories){const o=document.createElement('option');o.value=c;o.textContent=c+(semesters[c]?' · Halbjahr '+semesters[c]:'')+' · '+number(questions.filter(q=>q.category===c).length);$('category').append(o);}
  const p=document.createElement('p');p.textContent=data.summary;$('dataset-info').append(p);
  function stats(){const vals=Object.values(history);$('seen').textContent=number(vals.length);$('mastered').textContent=number(vals.filter(x=>x.correct).length);$('mistakes').textContent=number(vals.filter(x=>!x.correct).length);}
  function notify(text){$('notice').textContent=text;$('notice').hidden=!text;}
@@ -26,7 +27,7 @@
   $('solution').textContent=q.answers[0];$('override').hidden=!isText||correct||result.revealed;
   $('answer-actions-placeholder')?.remove();$('check').disabled=true;$('reveal').disabled=true;$('reveal').hidden=true;$('answer').disabled=true;
   for(const label of $('choice-list').querySelectorAll('label')){const input=label.querySelector('input');input.disabled=true;const val=input.value;label.classList.toggle('correct',q.answers.includes(val));label.classList.toggle('incorrect',val===result.input&&!correct);}
-  $('explanation').hidden=false;$('explanation-text').textContent=q.category+' · '+q.level+'\n'+(q.explanation||'');
+  $('explanation').hidden=false;$('explanation-text').textContent=q.category+' · '+(q.level==='E'?'Grundlagen':q.level)+'\n'+(q.explanation||'');
   $('source-links').replaceChildren();for(const link of q.sources||[]){if(!/^https:\/\//.test(link.url))continue;const a=document.createElement('a');a.href=link.url;a.textContent=link.label;a.target='_blank';a.rel='noopener noreferrer';$('source-links').append(a);}
   $('source-note').textContent=q.sourceNote||'Eigenständig formulierte Chemie-Übungsaufgabe.';
   $('next-row').hidden=false;$('next').textContent=session.index===session.ids.length-1?'Runde abschließen →':'Nächste Frage →';
