@@ -1,6 +1,6 @@
 # Chemie-Oberstufen-Quiz · Niedersachsen
 
-**Lösungssuche mit Konzentration** – 2.000 Chemie-Übungsaufgaben für die Q-Phase auf grundlegendem (gA) und erhöhtem Anforderungsniveau (eA), einschließlich Grundlagenwiederholung.
+**Lösungssuche mit Konzentration** – 1.500 Chemie-Übungsaufgaben für die Q-Phase auf grundlegendem (gA) und erhöhtem Anforderungsniveau (eA), einschließlich Grundlagenwiederholung.
 
 [Quiz online öffnen](https://testchemie.github.io/Chemie-Oberstufen-Quiz/)
 
@@ -15,15 +15,17 @@
 - Direkt nach der Prüfung erscheint richtig/falsch und die richtige Lösung. „Lösungsweg & Themenbezug“ enthält die Erklärung.
 - „Weiß ich noch nicht“ deckt die Lösung auf. Fehler lassen sich erneut üben.
 
-## Was die Zahl 2.000 bedeutet
+## Was die Zahl 1.500 bedeutet
 
-Der Bestand enthält 623 Verständnis- und Strukturfragen sowie 1377 Rechenvarianten. Mehrere Aufgaben üben dieselbe Methode mit anderen Stoffen, Strukturen oder Zahlen. Es sind **keine 2.000 unabhängigen Lernziele**. Die interne Gruppierung umfasst 260 Aufgabenfamilien einschließlich einzelner Verständnisfragen.
+Der Bestand enthält 761 Verständnis- und Strukturfragen sowie 739 Rechenvarianten. Mehrere Aufgaben üben dieselbe Methode mit anderen Stoffen, Strukturen oder Zahlen. Es sind **keine 1.500 unabhängigen Lernziele**. Die interne Gruppierung umfasst 534 Aufgabenfamilien einschließlich einzelner Verständnisfragen.
 
 Die Themen orientieren sich am [niedersächsischen Kerncurriculum Chemie 2022](https://cuvo.nibis.de/cuvo.php?p=download&upload=362). Die Einordnung ist eine Lernhilfe, keine amtliche Zuordnung jeder Einzelaufgabe. Rechenmodelle sind teilweise ergänzende Vertiefungen. Jahresbezogene Abiturhinweise und der Unterrichtsplan der eigenen Schule müssen zusätzlich berücksichtigt werden. Das Quiz ersetzt keine materialgebundenen Klausuraufgaben, Experimente oder ausführlichen Begründungen.
 
-## Organik-Überarbeitung vom 6. Oktober 2026
+## Weniger Wiederholungen
 
-120 bisherige Organikvarianten wurden durch 40 neue Struktur-/Reaktivitätsfragen und 80 Fragen zu Mechanismen ersetzt. Schwerpunkte: Elektronenpfeile, Teilchenrollen, Radikalketten, Addition, nucleophile Substitution, Veresterung/Hydrolyse, Syntheseplanung und mechanistische Befunde. Die schematische Alkanol-Klassifikation wurde von 19 auf 3 Varianten reduziert. Diese Überarbeitung bleibt im aktuellen Bestand erhalten.
+Alle zehn Themen wurden auf wiederkehrende Aufgabenmuster geprüft. 792 bisherige Aufgaben entfallen, 292 neue Verständnis- und Auswertungsfragen kommen hinzu. Der Bestand umfasst jetzt 150 Fragen je Thema. Die Esterhydrolyse-Zuordnung zum Alkohol wurde von neun auf drei Aufgaben reduziert. Reine Rechenserien mit stets identischem Ergebnis enthalten höchstens eine Aufgabe; andere beibehaltene Vorlagen höchstens 16 Varianten statt zuvor bis zu 27.
+
+Die Rundenauswahl nimmt zunächst unterschiedliche Aufgabenmuster. Erst danach kommen weitere Varianten desselben Musters an die Reihe. Bei engen Filtern können entsprechend weniger verschiedene Muster verfügbar sein. Inhaltlich verwandte Verständnisfragen bleiben möglich.
 
 ## Halbjahre und neuer Schwerpunkt
 
@@ -34,7 +36,7 @@ Die Themenauswahl zeigt die vorgegebene Halbjahreszuordnung:
 - Halbjahr 3: Organische Verbindungen, Organische Reaktionswege.
 - Halbjahr 4: Nanopartikel & Naturstoffe.
 
-„Stoffaufbau“ wurde vollständig durch 200 neue Aufgaben ersetzt: je 50 zu Nanopartikeln, Kohlenhydraten, Aminosäuren und Proteinen. Jede Gruppe enthält 40 Verständnisfragen und 10 Rechenaufgaben. Die übrigen 1.800 Aufgaben wurden bei diesem Austausch unverändert übernommen. „Stoffmengen & Lösungen“ und „Makromoleküle & Analytik“ bleiben ohne Halbjahresangabe. Die Semesterfolge entspricht dem vorgegebenen Kursplan, nicht einer amtlichen Zuordnung jeder Aufgabe.
+„Nanopartikel & Naturstoffe“ enthält 38 Aufgaben zu Nanopartikeln, 38 zu Kohlenhydraten, 37 zu Aminosäuren und 37 zu Proteinen (126 Verständnisfragen und 24 Rechnungen). „Stoffmengen & Lösungen“ und „Makromoleküle & Analytik“ bleiben ohne Halbjahresangabe. Die Semesterfolge entspricht dem vorgegebenen Kursplan, nicht einer amtlichen Zuordnung jeder Aufgabe.
 
 Die Speicherversion bleibt gleich: Fortschritt zu unveränderten Fragen bleibt erhalten. Entfernte Fragen entfallen aus dem Verlauf. Enthält eine laufende Runde eine entfernte Frage, beginnt beim nächsten Laden eine neue Runde.
 
@@ -48,4 +50,4 @@ Fortschritt wird nur im jeweiligen Browser gespeichert. Der Chemie-Bestand verwe
 
 ## Prüfung und Rechte
 
-Siehe [PRUEFBERICHT.md](PRUEFBERICHT.md), [DATENPRUEFUNG.json](DATENPRUEFUNG.json), [QUELLEN.md](QUELLEN.md) und [LICENSE-CODE.txt](LICENSE-CODE.txt). Stand: 6. Oktober 2026.
+Siehe [PRUEFBERICHT.md](PRUEFBERICHT.md), [DATENPRUEFUNG.json](DATENPRUEFUNG.json), [VARIANTENPRUEFUNG.json](VARIANTENPRUEFUNG.json), [QUELLEN.md](QUELLEN.md) und [LICENSE-CODE.txt](LICENSE-CODE.txt). Stand: 7. Oktober 2026.

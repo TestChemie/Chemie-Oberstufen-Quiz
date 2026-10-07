@@ -1,0 +1,1650 @@
+{
+  "date": "2026-10-07",
+  "reviewed": 2000,
+  "count": 1500,
+  "new": 292,
+  "removed": 792,
+  "templateMaximum": 16,
+  "categories": [
+    {
+      "category": "Nanopartikel & Naturstoffe",
+      "before": 200,
+      "after": 150,
+      "new": 0,
+      "families": [
+        {
+          "family": "Nanopartikel",
+          "before": 40,
+          "after": 32,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Einheiten",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Kugeloberfläche",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Oberflächenvergleich",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Teilchenzahl",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Oberflächensumme",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Spezifische Oberfläche",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Adsorptionsbilanz",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Dispersion verdünnen",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Mittlere Größe",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Nanopartikel: Kern und Hülle",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate",
+          "before": 40,
+          "after": 32,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Glucose-Stoffmenge",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Lösungskonzentration",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Disaccharidmasse",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Hydrolysebilanz",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Polymer-Endgruppen",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Bindungen spalten",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Massenanteil Kohlenstoff",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Gärungsbilanz",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Saccharose-Hydrolyse",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Kohlenhydrate: Wasseraufnahme",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren",
+          "before": 40,
+          "after": 31,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Glycinmasse",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Alanin-Stoffmenge",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Verdünnung",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Isoelektrischer Punkt neutraler Seitenkette",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Isoelektrischer Punkt saurer Seitenkette",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Isoelektrischer Punkt basischer Seitenkette",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Ladungssumme",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Protonierungsverhältnis",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Äquivalenzstoffmenge",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Aminosäuren: Disulfidbilanz",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Proteine",
+          "before": 40,
+          "after": 31,
+          "template": false
+        },
+        {
+          "family": "Proteine: Peptidbindungen",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Proteine: Kondensationsmasse",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Proteine: Tripeptidmasse",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Proteine: Hydrolyse-Wasser",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Proteine: Hydrolyse-Ausbeute",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Proteine: Kettenenden",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Proteine: Untereinheiten",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Proteine: Massenkonzentration",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Proteine: Modell-Ladung",
+          "before": 1,
+          "after": 0,
+          "template": false
+        },
+        {
+          "family": "Proteine: Enzymaktivität",
+          "before": 1,
+          "after": 1,
+          "template": false
+        }
+      ]
+    },
+    {
+      "category": "Stoffmengen & Lösungen",
+      "before": 200,
+      "after": 150,
+      "new": 40,
+      "families": [
+        {
+          "family": "Verständnis: Welche Beziehung definiert die Stoffmengenkonzentration?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Größe bleibt bei bloßer Verdünnung einer Lösung erhalten?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was bezeichnet ein Mol?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum müssen Reaktionsgleichungen ausgeglichen sein?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist ein limitierender Reaktionspartner?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Worauf bezieht sich die Angabe 0,10 mol/L einer Lösung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was unterscheidet Masse und Stoffmenge?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Einheit gehört zur molaren Masse?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum ist eine praktische Ausbeute oft kleiner als die theoretische?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage zur Massenbilanz im geschlossenen Reaktionsgefäß ist richtig?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Masse aus Stoffmenge",
+          "before": 20,
+          "after": 13,
+          "template": true
+        },
+        {
+          "family": "Stoffmenge aus Masse",
+          "before": 20,
+          "after": 13,
+          "template": true
+        },
+        {
+          "family": "Konzentration aus Stoffmenge",
+          "before": 20,
+          "after": 1,
+          "template": true
+        },
+        {
+          "family": "Einwaage für Lösungen",
+          "before": 20,
+          "after": 13,
+          "template": true
+        },
+        {
+          "family": "Massenkonzentration",
+          "before": 20,
+          "after": 12,
+          "template": true
+        },
+        {
+          "family": "Verdünnungsrechnung",
+          "before": 23,
+          "after": 12,
+          "template": true
+        },
+        {
+          "family": "Prozentuale Ausbeute",
+          "before": 23,
+          "after": 12,
+          "template": true
+        },
+        {
+          "family": "Massenanteil",
+          "before": 22,
+          "after": 12,
+          "template": true
+        },
+        {
+          "family": "Limitierender Stoff",
+          "before": 22,
+          "after": 12,
+          "template": true
+        }
+      ]
+    },
+    {
+      "category": "Organische Verbindungen",
+      "before": 200,
+      "after": 150,
+      "new": 0,
+      "families": [
+        {
+          "family": "Verständnis: Was unterscheidet Konstitutionsisomere?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Voraussetzung ermöglicht E/Z-Isomerie an einer C=C-Doppelbindung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche funktionelle Gruppe kennzeichnet Carbonsäuren?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wie unterscheiden sich Aldehyde von Ketonen an der Carbonylgruppe?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum löst sich Ethanol deutlich besser in Wasser als Hexan?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wie verändert eine längere Alkylkette bei vergleichbaren Alkanolen tendenziell die Wasserlöslichkeit?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was bedeutet primär bei einem einwertigen Alkanol?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Bindungsart ist in Alkenen zusätzlich zu σ-Bindungen vorhanden?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum verwendet man systematische Stoffnamen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was beschreibt die Mesomerie des Benzols?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage über die Bindungslängen im Benzolring ist richtig?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was kennzeichnet einen chiralen Gegenstand oder ein chirales Molekül?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Summenformeln: Alkane",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Namen: Alkane",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Molare Masse organischer Stoffe",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Bindungszählung: Alkane",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Summenformeln: Alkanole",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Molare Masse: Alkanole",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Summenformeln: Alkansäuren",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Kohlenstoff-Massenanteil",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Summenformeln: Alkene",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Summenformeln: Alkine",
+          "before": 10,
+          "after": 7,
+          "template": true
+        },
+        {
+          "family": "Hydrierungsbilanz",
+          "before": 9,
+          "after": 1,
+          "template": true
+        },
+        {
+          "family": "Alkanole klassifizieren",
+          "before": 3,
+          "after": 3,
+          "template": true
+        },
+        {
+          "family": "Stoffklassen erkennen",
+          "before": 9,
+          "after": 6,
+          "template": true
+        },
+        {
+          "family": "Cycloalkane: Wasserstoffzahl",
+          "before": 9,
+          "after": 6,
+          "template": true
+        },
+        {
+          "family": "Monoalkene: σ-Bindungen",
+          "before": 9,
+          "after": 6,
+          "template": true
+        },
+        {
+          "family": "Alkine: molare Masse",
+          "before": 9,
+          "after": 6,
+          "template": true
+        },
+        {
+          "family": "Struktur und Reaktivität: Elektronendichte",
+          "before": 8,
+          "after": 8,
+          "template": false
+        },
+        {
+          "family": "Struktur und Reaktivität: Modelle prüfen",
+          "before": 8,
+          "after": 8,
+          "template": false
+        },
+        {
+          "family": "Struktur und Eigenschaften: Vergleichen und begründen",
+          "before": 8,
+          "after": 8,
+          "template": false
+        },
+        {
+          "family": "Strukturen lesen und Isomerie begründen",
+          "before": 8,
+          "after": 8,
+          "template": false
+        },
+        {
+          "family": "Struktur und Reaktivität: begründete Vorhersagen",
+          "before": 8,
+          "after": 8,
+          "template": false
+        }
+      ]
+    },
+    {
+      "category": "Organische Reaktionswege",
+      "before": 200,
+      "after": 150,
+      "new": 10,
+      "families": [
+        {
+          "family": "Verständnis: Was entsteht bei milder Oxidation eines primären Alkanols zunächst?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was entsteht bei milder Oxidation eines sekundären Alkanols?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum sind tertiäre Alkanole gegenüber milder Oxidation ohne C–C-Spaltung beständig?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was geschieht bei einer homolytischen Bindungsspaltung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was geschieht bei einer heterolytischen Bindungsspaltung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Eigenschaft kennzeichnet ein Nucleophil?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Eigenschaft kennzeichnet ein Elektrophil?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Rolle spielt Licht bei einer radikalischen Halogenierung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welcher Vorgang ist ein Kettenabbruch bei einer Radikalreaktion?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Produkte liefert die säurekatalysierte Veresterung von Carbonsäure und Alkohol?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Änderung begünstigt im Veresterungsgleichgewicht die Esterbildung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was beschreibt ein +I-Effekt?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist für einen SN2-Mechanismus charakteristisch?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist eine typische Zwischenstufe bei einem SN1-Mechanismus?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum wird bei einer elektrophilen Erstsubstitution an Benzol am Ende ein Proton abgegeben?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Oxidation: primäre Alkohole",
+          "before": 10,
+          "after": 5,
+          "template": true
+        },
+        {
+          "family": "Oxidation: Aldehyde",
+          "before": 10,
+          "after": 5,
+          "template": true
+        },
+        {
+          "family": "Hydrierung: Alkene",
+          "before": 9,
+          "after": 5,
+          "template": true
+        },
+        {
+          "family": "Verbrennung: Sauerstoffbedarf",
+          "before": 9,
+          "after": 4,
+          "template": true
+        },
+        {
+          "family": "Verbrennung: Wasserbildung",
+          "before": 9,
+          "after": 4,
+          "template": true
+        },
+        {
+          "family": "Oxidation: sekundäre Alkohole",
+          "before": 9,
+          "after": 4,
+          "template": true
+        },
+        {
+          "family": "Ester aus Edukten",
+          "before": 9,
+          "after": 3,
+          "template": true
+        },
+        {
+          "family": "Esterhydrolyse: Alkohol",
+          "before": 9,
+          "after": 3,
+          "template": true
+        },
+        {
+          "family": "Ester: C-Atombilanz",
+          "before": 9,
+          "after": 3,
+          "template": true
+        },
+        {
+          "family": "Reaktionstypen",
+          "before": 4,
+          "after": 4,
+          "template": true
+        },
+        {
+          "family": "Additionsreaktion: Stoffmengen",
+          "before": 9,
+          "after": 4,
+          "template": true
+        },
+        {
+          "family": "Veresterung: Umsatzbilanz",
+          "before": 9,
+          "after": 1,
+          "template": true
+        },
+        {
+          "family": "Mechanismen: Elektronenpfeile und Teilchenrollen",
+          "before": 10,
+          "after": 10,
+          "template": false
+        },
+        {
+          "family": "Mechanismen: radikalische Substitution",
+          "before": 10,
+          "after": 10,
+          "template": false
+        },
+        {
+          "family": "Mechanismen: elektrophile Addition",
+          "before": 10,
+          "after": 10,
+          "template": false
+        },
+        {
+          "family": "Mechanismen: nucleophile Substitution",
+          "before": 10,
+          "after": 10,
+          "template": false
+        },
+        {
+          "family": "Mechanismen: Veresterung und Hydrolyse",
+          "before": 10,
+          "after": 10,
+          "template": false
+        },
+        {
+          "family": "Mechanismen: Eliminierung und Syntheseplanung",
+          "before": 10,
+          "after": 10,
+          "template": false
+        },
+        {
+          "family": "Mechanismen: Aromaten und Kettenaufbau",
+          "before": 10,
+          "after": 10,
+          "template": false
+        },
+        {
+          "family": "Mechanismen: Befunde auswerten und Fehler erkennen",
+          "before": 10,
+          "after": 10,
+          "template": false
+        }
+      ]
+    },
+    {
+      "category": "Chemisches Gleichgewicht",
+      "before": 200,
+      "after": 150,
+      "new": 42,
+      "families": [
+        {
+          "family": "Verständnis: Was gilt in einem dynamischen chemischen Gleichgewicht?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was verändert bei festgelegter Reaktionsgleichung den Wert der Gleichgewichtskonstante?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Wirkung hat ein Katalysator auf die Gleichgewichtslage?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was bedeutet Q < K für eine noch nicht im Gleichgewicht befindliche Mischung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum erscheinen reine Feststoffe nicht als Konzentrationsfaktoren im üblichen heterogenen MWG?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wann wird bei einem Salz eine Fällung erwartet?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was geschieht mit der Löslichkeit eines schwer löslichen Salzes bei Zugabe eines gemeinsamen Ions im einfachen Modell?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage zur Ammoniaksynthese ist richtig?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum nutzt ein technischer Prozess oft einen Temperaturkompromiss?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist eine notwendige Voraussetzung für ein dauerhaftes Gleichgewicht mit flüchtigen Reaktionspartnern?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "MWG: A zu B",
+          "before": 25,
+          "after": 16,
+          "template": true
+        },
+        {
+          "family": "Gleichgewichtskonzentration",
+          "before": 25,
+          "after": 16,
+          "template": true
+        },
+        {
+          "family": "Umsatz im Gleichgewicht",
+          "before": 25,
+          "after": 16,
+          "template": true
+        },
+        {
+          "family": "Reaktionsrichtung aus Q",
+          "before": 25,
+          "after": 3,
+          "template": true
+        },
+        {
+          "family": "MWG: stöchiometrische Exponenten",
+          "before": 25,
+          "after": 16,
+          "template": true
+        },
+        {
+          "family": "Le Chatelier: Druck",
+          "before": 20,
+          "after": 8,
+          "template": true
+        },
+        {
+          "family": "Le Chatelier: Temperatur",
+          "before": 20,
+          "after": 8,
+          "template": true
+        },
+        {
+          "family": "Löslichkeitsprodukt: 1 zu 1",
+          "before": 25,
+          "after": 15,
+          "template": true
+        }
+      ]
+    },
+    {
+      "category": "Energetik",
+      "before": 200,
+      "after": 150,
+      "new": 40,
+      "families": [
+        {
+          "family": "Verständnis: Welches Vorzeichen besitzt ΔH bei einer exothermen Reaktion?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was beschreibt der Satz von Hess?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was gilt beim Spalten einer chemischen Bindung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist die Standardbildungsenthalpie eines Elements in seinem Standardzustand per Konvention?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was besagt der erste Hauptsatz der Thermodynamik?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was gilt bei ΔG < 0 unter den betrachteten Bedingungen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Kombination begünstigt einen Prozess bei jeder positiven Temperatur, sofern ΔH und ΔS konstant bleiben?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum kann ein endothermer Prozess freiwillig ablaufen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Temperatur muss in ΔG = ΔH − TΔS eingesetzt werden?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage über ein einfaches Kalorimeter ist richtig?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Kalorimetrie: Wärme",
+          "before": 24,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Kalorimetrie: molare Enthalpie",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Gibbs-Energie berechnen",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Grenztemperatur",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Hess: Teilreaktionen addieren",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Energiediagramm: Hinbarriere",
+          "before": 24,
+          "after": 1,
+          "template": true
+        },
+        {
+          "family": "Energiediagramm: Reaktionsenthalpie",
+          "before": 23,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Lösungsenthalpie",
+          "before": 23,
+          "after": 14,
+          "template": true
+        }
+      ]
+    },
+    {
+      "category": "Reaktionsgeschwindigkeit",
+      "before": 200,
+      "after": 150,
+      "new": 40,
+      "families": [
+        {
+          "family": "Verständnis: Warum erhöht eine höhere Temperatur häufig die Reaktionsgeschwindigkeit?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum reagiert ein Pulver oft schneller als ein gleich schweres kompaktes Stück?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wie wirkt ein Katalysator?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was bedeutet homogene Katalyse?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was muss ein Experiment zum Konzentrationseinfluss möglichst konstant halten?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was zeigt die Steigung einer Konzentrations-Zeit-Kurve?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum reicht eine negative Reaktionsenthalpie nicht zur Vorhersage einer hohen Geschwindigkeit?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was kennzeichnet einen wirksamen Teilchenstoß?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist eine Blindprobe in einer Untersuchung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage zur RGT-Regel ist angemessen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Mittlere Verbrauchsgeschwindigkeit",
+          "before": 24,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Mittlere Bildungsgeschwindigkeit",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Stöchiometrische Geschwindigkeiten",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Temperatur-Faustregel",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Oberfläche eines Partikelmodells",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Geschwindigkeitsgesetz anwenden",
+          "before": 24,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Halbwertszeit-Modell",
+          "before": 23,
+          "after": 1,
+          "template": true
+        },
+        {
+          "family": "Katalytische Barrierenänderung",
+          "before": 23,
+          "after": 14,
+          "template": true
+        }
+      ]
+    },
+    {
+      "category": "Säuren & Basen",
+      "before": 200,
+      "after": 150,
+      "new": 40,
+      "families": [
+        {
+          "family": "Verständnis: Was ist eine Brønsted-Säure?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist eine Brønsted-Base?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wodurch unterscheiden sich konjugierte Säure-Base-Partner?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage trifft auf einen Ampholyten zu?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was bedeutet ein kleinerer pKS-Wert im Vergleich zweier Säuren?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Worin unterscheiden sich Säurestärke und Säurekonzentration?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wie lautet die Nettoreaktion der Neutralisation von Oxonium- und Hydroxid-Ionen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was gilt am Äquivalenzpunkt einer Titration?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was kennzeichnet einen geeigneten Säure-Base-Indikator?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Mischung ist ein typischer Puffer?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was gilt am Halbäquivalenzpunkt der Titration einer schwachen einprotonigen Säure mit starker Base im üblichen Modell?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum ist eine Natriumacetat-Lösung alkalisch?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum ist eine Ammoniumchlorid-Lösung sauer?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was geschieht, wenn die Pufferkapazität überschritten wird?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "pH starker Säuren",
+          "before": 24,
+          "after": 16,
+          "template": true
+        },
+        {
+          "family": "pH von Hydroxidlösungen",
+          "before": 24,
+          "after": 16,
+          "template": true
+        },
+        {
+          "family": "pH schwacher Säuren",
+          "before": 23,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Pufferrechnung",
+          "before": 23,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Titration einprotoniger Säuren",
+          "before": 23,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Titration mehrprotoniger Säuren",
+          "before": 23,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Titration vor dem Äquivalenzpunkt",
+          "before": 23,
+          "after": 3,
+          "template": true
+        },
+        {
+          "family": "pH als logarithmische Größe",
+          "before": 23,
+          "after": 1,
+          "template": true
+        }
+      ]
+    },
+    {
+      "category": "Redox & Elektrochemie",
+      "before": 200,
+      "after": 150,
+      "new": 40,
+      "families": [
+        {
+          "family": "Verständnis: Was ist eine Oxidation im Elektronenmodell?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist eine Reduktion im Elektronenmodell?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Rolle hat ein Oxidationsmittel?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was geschieht an der Anode?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was geschieht an der Kathode?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Elektrode ist bei einer arbeitenden galvanischen Zelle der Minuspol?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Elektrode ist bei einer Elektrolyse der Minuspol?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wozu dient die Salzbrücke in einer galvanischen Zelle?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: In welche Richtung fließen Elektronen im äußeren Leiter der Daniell-Zelle?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Eigenschaft benötigt eine Opferanode zum Schutz von Eisen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wie unterscheiden sich Elektrolyse und galvanische Zelle energetisch?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was unterscheidet eine Brennstoffzelle grundsätzlich von einer geschlossenen Batterie?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was bedeutet Überspannung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage zum Laden eines Akkumulators ist richtig?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Oxidationszahlen bestimmen",
+          "before": 25,
+          "after": 16,
+          "template": true
+        },
+        {
+          "family": "Standard-Zellspannung",
+          "before": 27,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Elektroden zuordnen",
+          "before": 27,
+          "after": 5,
+          "template": true
+        },
+        {
+          "family": "Faraday: abgeschiedene Masse",
+          "before": 27,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Nernst: Metallhalbzelle",
+          "before": 27,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Ladung und Elektronenstoffmenge",
+          "before": 27,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Redox: Elektronenbilanz",
+          "before": 26,
+          "after": 15,
+          "template": true
+        }
+      ]
+    },
+    {
+      "category": "Makromoleküle & Analytik",
+      "before": 200,
+      "after": 150,
+      "new": 40,
+      "families": [
+        {
+          "family": "Verständnis: Warum lassen sich Thermoplaste beim Erwärmen häufig verformen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was kennzeichnet einen Duroplasten?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was kennzeichnet einen Elastomer im gebräuchlichen Strukturmodell?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welches Monomer liegt Polyethen zugrunde?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welches Merkmal besitzt ein geeignetes Monomer für eine einfache radikalische Additionspolymerisation?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Gruppen kennzeichnen eine einfache α-Aminosäure?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wie entsteht eine Peptidbindung formal?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aminosäure ist wegen zweier H-Substituenten am α-C nicht chiral?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Wechselwirkungen stabilisieren häufig α-Helices in Proteinen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was wird bei der Denaturierung eines Proteins typischerweise verändert?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Beobachtung ist für eine positive Iod-Stärke-Probe charakteristisch?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Worauf weist eine positive Biuret-Probe hin?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was zeigt eine positive Benedict-Probe im üblichen Schulversuch?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Worauf beruht die Trennung in der Gaschromatografie?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Wie werden Retentionszeiten für eine Stoffzuordnung sinnvoll verwendet?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was bezeichnet werkstoffliches Kunststoffrecycling?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum bedeutet biobasiert nicht automatisch biologisch abbaubar?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Betrachtung eignet sich zum Vergleich zweier Verpackungen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum können Nanopartikel besonders reaktiv sein?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Was ist bei einer Bewertung von Nanomaterialien angemessen?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum kann eine Kontrollprobe mit bekannt positivem Ergebnis sinnvoll sein?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage ist eine Beobachtung statt einer Deutung?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Warum sollten Messungen wiederholt werden?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Verständnis: Welche Aussage zu einer aus drei Messungen berechneten mittleren Konzentration ist richtig?",
+          "before": 1,
+          "after": 1,
+          "template": false
+        },
+        {
+          "family": "Chromatografie: Rf-Werte",
+          "before": 22,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Polymerisationsgrad",
+          "before": 22,
+          "after": 15,
+          "template": true
+        },
+        {
+          "family": "Peptidbindungen zählen",
+          "before": 22,
+          "after": 0,
+          "template": true
+        },
+        {
+          "family": "Kondensation: Wassermasse",
+          "before": 22,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Polysaccharid: molare Masse",
+          "before": 22,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Recyclingquote aus Daten",
+          "before": 22,
+          "after": 14,
+          "template": true
+        },
+        {
+          "family": "Nanopartikel: Oberfläche zu Volumen",
+          "before": 22,
+          "after": 0,
+          "template": true
+        },
+        {
+          "family": "Messdaten: Mittelwert",
+          "before": 22,
+          "after": 14,
+          "template": true
+        }
+      ]
+    }
+  ]
+}

@@ -15,7 +15,7 @@
  const p=document.createElement('p');p.textContent=data.summary;$('dataset-info').append(p);
  function stats(){const vals=Object.values(history);$('seen').textContent=number(vals.length);$('mastered').textContent=number(vals.filter(x=>x.correct).length);$('mistakes').textContent=number(vals.filter(x=>!x.correct).length);}
  function notify(text){$('notice').textContent=text;$('notice').hidden=!text;}
- function start(ids){let selected;if(ids){selected=E.shuffle(ids);}else{const eligible=E.pool(questions,history,$('category').value,$('filter').value,$('level').value,$('kind').value);const size=$('length').value;selected=$('category').value==='all'&&size!=='all'?E.balanced(eligible,Number(size)).map(q=>q.id):E.shuffle(eligible.map(q=>q.id));if(size!=='all')selected=selected.slice(0,Number(size));}
+ function start(ids){let selected;if(ids){selected=E.diverse(ids.map(id=>byId.get(id))).map(q=>q.id);}else{const eligible=E.pool(questions,history,$('category').value,$('filter').value,$('level').value,$('kind').value);const size=$('length').value;selected=$('category').value==='all'&&size!=='all'?E.balanced(eligible,Number(size)).map(q=>q.id):E.diverse(eligible).map(q=>q.id);if(size!=='all')selected=selected.slice(0,Number(size));}
   if(!selected.length){notify('In dieser Auswahl gibt es gerade keine Fragen. Wähle ein anderes Thema oder „Gemischt lernen“.');return;}
   session={ids:selected,index:0,results:[],mode:$('mode').value,category:$('category').value,filter:$('filter').value,length:$('length').value,level:$('level').value,kind:$('kind').value};notify('');save();render();
  }
