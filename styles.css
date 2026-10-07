@@ -5,3 +5,9 @@
 
 /* Allow the full quiz name to wrap on narrow screens. */
 .masthead{gap:18px}.brand{min-width:0}.brand-mark{flex-shrink:0}.brand strong{overflow-wrap:anywhere}.edition{flex-shrink:0}@media(max-width:700px){.brand strong{font-size:17px}.masthead{gap:12px}.edition{max-width:76px}}
+
+/* Decorative glass apparatus: outside the reading surface, without interaction. */
+body{position:relative;isolation:isolate;min-height:100vh}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:url("distillation.svg") no-repeat right bottom;background-size:min(1100px,92vw) auto;opacity:.16}
+@media(max-width:700px){body::before{background-size:760px auto;background-position:60% bottom;opacity:.11}}
+@media print{body::before{display:none}}
