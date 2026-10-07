@@ -1,6 +1,6 @@
 # Chemie-Oberstufen-Quiz · Niedersachsen
 
-**Lösungssuche mit Konzentration** – 1.500 Chemie-Übungsaufgaben für die Q-Phase auf grundlegendem (gA) und erhöhtem Anforderungsniveau (eA), einschließlich Grundlagenwiederholung.
+**Konzentration bei der Lösungssuche** – 1.500 Chemie-Übungsaufgaben für die Q-Phase auf grundlegendem (gA) und erhöhtem Anforderungsniveau (eA), einschließlich Grundlagenwiederholung.
 
 [Quiz online öffnen](https://testchemie.github.io/Chemie-Oberstufen-Quiz/)
 
