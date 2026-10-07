@@ -11,7 +11,7 @@
  $('total-header').textContent=number(questions.length);
  const semesters=data.categorySemesters||{};
  const categories=[...new Set(questions.map(q=>q.category))].sort((a,b)=>(semesters[a]||5)-(semesters[b]||5)||a.localeCompare(b,'de'));
- for(const c of categories){const o=document.createElement('option');o.value=c;o.textContent=c+(semesters[c]?' · Halbjahr '+semesters[c]:'')+' · '+number(questions.filter(q=>q.category===c).length);$('category').append(o);}
+ for(const c of categories){const o=document.createElement('option');o.value=c;o.textContent=c+(c==='Makromoleküle & Analytik'?' · alle Halbjahre':semesters[c]?' · Halbjahr '+semesters[c]:'')+' · '+number(questions.filter(q=>q.category===c).length);$('category').append(o);}
  const p=document.createElement('p');p.textContent=data.summary;$('dataset-info').append(p);
  function stats(){const vals=Object.values(history);$('seen').textContent=number(vals.length);$('mastered').textContent=number(vals.filter(x=>x.correct).length);$('mistakes').textContent=number(vals.filter(x=>!x.correct).length);}
  function notify(text){$('notice').textContent=text;$('notice').hidden=!text;}

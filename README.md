@@ -36,7 +36,7 @@ Die Themenauswahl zeigt die vorgegebene Halbjahreszuordnung:
 - Halbjahr 3: Organische Verbindungen, Organische Reaktionswege.
 - Halbjahr 4: Nanopartikel & Naturstoffe.
 
-„Nanopartikel & Naturstoffe“ enthält 38 Aufgaben zu Nanopartikeln, 38 zu Kohlenhydraten, 37 zu Aminosäuren und 37 zu Proteinen (126 Verständnisfragen und 24 Rechnungen). „Stoffmengen & Lösungen“ und „Makromoleküle & Analytik“ bleiben ohne Halbjahresangabe. Die Semesterfolge entspricht dem vorgegebenen Kursplan, nicht einer amtlichen Zuordnung jeder Aufgabe.
+„Nanopartikel & Naturstoffe“ enthält 38 Aufgaben zu Nanopartikeln, 38 zu Kohlenhydraten, 37 zu Aminosäuren und 37 zu Proteinen (126 Verständnisfragen und 24 Rechnungen). „Makromoleküle & Analytik“ ist allen Halbjahren zugeordnet. „Stoffmengen & Lösungen“ bleibt ohne Halbjahresangabe. Die Semesterfolge entspricht dem vorgegebenen Kursplan, nicht einer amtlichen Zuordnung jeder Aufgabe.
 
 Die Speicherversion bleibt gleich: Fortschritt zu unveränderten Fragen bleibt erhalten. Entfernte Fragen entfallen aus dem Verlauf. Enthält eine laufende Runde eine entfernte Frage, beginnt beim nächsten Laden eine neue Runde.
 
