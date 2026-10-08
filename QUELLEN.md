@@ -6,6 +6,10 @@ Niedersächsisches Kultusministerium: [Kerncurriculum Chemie für die gymnasiale
 
 Die Verweise in den Aufgaben belegen die fachliche Themenorientierung. Sie sind **keine Belege für amtliche Musterlösungen**. Die Aufgaben und Erklärungen wurden für dieses Quiz eigenständig formuliert; der Curriculumtext wurde nicht als Aufgabensammlung kopiert. Das Curriculum selbst verbleibt bei seinem Herausgeber.
 
+## Fachliche Präzisierung
+
+Die Unterscheidung von Standardzustand und Referenzform eines Elements wurde anhand des [IUPAC Gold Book – reference state](https://goldbook.iupac.org/terms/view/R05233) geprüft. Die Nullkonvention der Standardbildungsenthalpie bezieht sich auf die Referenzform des Elements und nicht auf jede Modifikation. Die Gleichgewichtsdefinition wird im [IUPAC Gold Book – standard equilibrium constant](https://www.old.goldbook.iupac.org/html/S/S05915.html) erläutert.
+
 ## Ergänzender Schwerpunkt Nanopartikel
 
 Fachlicher Hintergrund: [National Nanotechnology Coordination Office – About Nanotechnology](https://www.nano.gov/about-nanotechnology/). Der Nanopartikel-Schwerpunkt ergänzt auf ausdrücklichen Wunsch die Themenorientierung am KC. Die Zuordnung zu vier Halbjahren folgt dem vorgegebenen Kursplan. Naturstoffthemen umfassen Kohlenhydrate, Aminosäuren und Proteine; alle Aufgaben sind eigenständig formuliert.

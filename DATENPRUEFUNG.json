@@ -24,7 +24,7 @@
     "Rechenvariante": 739
   },
   "families": 534,
-  "sha256": "e3ff197b6629b1e0e624ca4dcdf96531aa0fc3e3d311feb93d4f9f7489062ba3",
+  "sha256": "fa45bea36187becf6145f914478532a7628e214b8dcdc30b1224231285df0a86",
   "checks": "Siehe PRUEFBERICHT.md. Keine unabhängige fachliche Einzelprüfung aller Aufgaben.",
   "records": [
     {
@@ -5783,8 +5783,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-ba38f4b074c27007",
-      "family": "Verständnis: Welche Folge haben Wärmeverluste bei einer unberichtigten exothermen Kalorimetriemessung häufig?",
+      "id": "ch-06428b580e611f92",
+      "family": "Verständnis: Bei einer exothermen Kalorimetrie bleibt die Erwärmung des Gefäßes unberücksichtigt. Wie beeinflusst das gewöhnlich den aus der Wassererwärmung ermittelten Betrag von ΔrH?",
       "level": "eA",
       "kind": "Verständnis"
     },
@@ -5915,8 +5915,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-650ebea2163588ee",
-      "family": "Verständnis: Welche Temperatur gehört in ΔG = ΔH − TΔS?",
+      "id": "ch-798d187dd4416a00",
+      "family": "Verständnis: Bei 25 °C setzt jemand T = 25 in ΔG = ΔH − TΔS ein. Welcher Fehler entsteht dadurch?",
       "level": "eA",
       "kind": "Verständnis"
     },
@@ -5927,14 +5927,14 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-f3c0ea2b3616bb73",
-      "family": "Verständnis: Welches Vorzeichenpaar begünstigt eine Reaktion im einfachen ΔG-Modell bei allen positiven Temperaturen?",
+      "id": "ch-93087484329df232",
+      "family": "Verständnis: Eine Reaktion hat ΔH < 0 und ΔS < 0; beide Werte seien konstant. Wie wirkt Erwärmung auf ΔG?",
       "level": "eA",
       "kind": "Verständnis"
     },
     {
-      "id": "ch-75eb856a7a108678",
-      "family": "Verständnis: Wann kann eine endotherme Reaktion thermodynamisch begünstigt sein?",
+      "id": "ch-79eafb411280a057",
+      "family": "Verständnis: Für einen endothermen Vorgang gilt ΔS > 0. Oberhalb einer Grenztemperatur wird ΔG negativ. Welche Aussage erklärt den Übergang?",
       "level": "eA",
       "kind": "Verständnis"
     },
@@ -5999,8 +5999,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-f786a70b530f597d",
-      "family": "Verständnis: Welche Aussage über ein energetisch günstiges Produkt ist zulässig?",
+      "id": "ch-dfc30624e1d8719e",
+      "family": "Verständnis: Zwei Reaktionen haben dieselbe negative Reaktionsenthalpie, aber unterschiedliche Aktivierungsbarrieren. Was folgt daraus für ihre Geschwindigkeit?",
       "level": "eA",
       "kind": "Verständnis"
     },
@@ -7302,8 +7302,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-8ff6acb5081dccdf",
-      "family": "Verständnis: Warum erhöht Erwärmung häufig die Reaktionsgeschwindigkeit?",
+      "id": "ch-dc0f44047c97ab55",
+      "family": "Verständnis: Bei konstanter Zusammensetzung steigt die Geschwindigkeitskonstante k beim Erwärmen. Was passt zum einfachen Arrhenius-Modell mit positiver Aktivierungsenergie?",
       "level": "gA",
       "kind": "Verständnis"
     },
@@ -7314,8 +7314,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-094ba7257ab10b01",
-      "family": "Verständnis: Welche Grenze hat die RGT-Faustregel?",
+      "id": "ch-2b8ecdaa6a090b14",
+      "family": "Verständnis: Eine Enzymreaktion wird bei starker Erwärmung langsamer statt schneller. Warum darf die RGT-Regel hier nicht einfach fortgeschrieben werden?",
       "level": "gA",
       "kind": "Verständnis"
     },
@@ -7344,8 +7344,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-89af8a6088111f54",
-      "family": "Verständnis: Was unterscheidet homogene von heterogener Katalyse?",
+      "id": "ch-68ca536aed36b684",
+      "family": "Verständnis: Ein fester Katalysator beschleunigt die Reaktion gelöster Stoffe. Stärkeres Rühren erhöht die Rate. Welche Erklärung ist plausibel?",
       "level": "gA",
       "kind": "Verständnis"
     },
@@ -8761,8 +8761,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-86a560731efa8fc0",
-      "family": "Verständnis: Welche Information liefert der Halbäquivalenzpunkt einer einfachen schwachen Säure näherungsweise?",
+      "id": "ch-9389ee000d643cfa",
+      "family": "Verständnis: Eine schwache einprotonige Säure wird mit starker Base titriert. Am Halbäquivalenzpunkt werden pH = 4,8 gemessen. Welche Aussage gilt im üblichen Puffermodell?",
       "level": "gA",
       "kind": "Verständnis"
     },
@@ -10033,8 +10033,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-f1a655127b25571c",
-      "family": "Verständnis: Welche Aufgabe hat eine Salzbrücke im galvanischen Element?",
+      "id": "ch-86b41052ad4ee62c",
+      "family": "Verständnis: In einer Daniell-Zelle entstehen in der Zink-Halbzelle zusätzliche Zn2+-Ionen. Welche Ionenwanderung aus einer geeigneten Salzbrücke gleicht dort die Ladung aus?",
       "level": "gA",
       "kind": "Verständnis"
     },
@@ -10165,8 +10165,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-cd7d18c841c2b530",
-      "family": "Verständnis: Welche Rolle hat eine Opferanode beim Korrosionsschutz?",
+      "id": "ch-cd1348fdc13d57cb",
+      "family": "Verständnis: Eine Magnesium-Opferanode ist durch eine isolierende Schicht elektrisch von einem Stahlteil getrennt. Warum ist der vorgesehene Schutz dann gestört?",
       "level": "gA",
       "kind": "Verständnis"
     },
@@ -11402,8 +11402,8 @@
       "kind": "Verständnis"
     },
     {
-      "id": "ch-1f29aa97155eaa5d",
-      "family": "Verständnis: Warum bedeutet „biobasiert“ nicht automatisch „biologisch abbaubar“?",
+      "id": "ch-739a1b4b721d71a3",
+      "family": "Verständnis: Eine Verpackung besteht aus Polyethen, dessen Ethen aus Biomasse gewonnen wurde. Welche Folgerung ist begründet?",
       "level": "gA",
       "kind": "Verständnis"
     },

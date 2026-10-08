@@ -27,6 +27,10 @@ Alle zehn Themen wurden auf wiederkehrende Aufgabenmuster geprüft. 792 bisherig
 
 Die Rundenauswahl nimmt zunächst unterschiedliche Aufgabenmuster. Erst danach kommen weitere Varianten desselben Musters an die Reihe. Bei engen Filtern können entsprechend weniger verschiedene Muster verfügbar sein. Inhaltlich verwandte Verständnisfragen bleiben möglich.
 
+## Weitere Qualitätsverbesserungen
+
+Zwölf ähnliche Verständnisfragen wurden durch Anwendungsaufgaben ersetzt. Fachliche Voraussetzungen und Erklärungen sind präzisiert; bei 637 Rechenaufgaben wurden zu leicht ausscheidbare Antwortalternativen verbessert. Die Zahl bleibt bei 150 Fragen je Thema. Details stehen im Prüfbericht.
+
 ## Halbjahre und neuer Schwerpunkt
 
 Die Themenauswahl zeigt die vorgegebene Halbjahreszuordnung:
